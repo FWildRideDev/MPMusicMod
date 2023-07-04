@@ -1,0 +1,56 @@
+music_station = "iw_test_station"
+music = {
+	song = "Rooster"
+	chance = {
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Zombie"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Forgive_Me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "My_Song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lifes_A_Bitch"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Rosa_Parks"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Southernplayalisticadillacmuzik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Planet_Caravan"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "I_Aint_Mad_At_Cha"
+	chance = {
+		factor = 1
+	}
+}
