@@ -1,5 +1,12 @@
 music_station = "iw_test_station"
 music = {
+	song = "Janies_Got_A_Gun"
+	chance = {
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Rooster"
 	chance = {
 	chance = {
@@ -13,13 +20,55 @@ music = {
 	}
 }
 music = {
+	song = "Policy_Of_Truth"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Midlife_Crisis"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Forgive_Me"
 	chance = {
 		factor = 1
 	}
 }
 music = {
+	song = "Civil_War"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Today_Was_A_Good_Day"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "My_Song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Pretend_Were_Dead"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Cult_of_Personality"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lay_Lady_Lay"
 	chance = {
 		factor = 1
 	}
@@ -49,7 +98,25 @@ music = {
 	}
 }
 music = {
+	song = "Buck_Dich"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Gimme_All_Your_Lovin"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "I_Aint_Mad_At_Cha"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "commercial1"
 	chance = {
 		factor = 1
 	}

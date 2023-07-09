@@ -1,4 +1,8 @@
 music = {
+	name = "Janies_Got_A_Gun"
+	file = "Janies_Got_A_Gun.ogg"
+}
+music = {
 	name = "Rooster"
 	file = "Rooster.ogg"
 }
@@ -7,12 +11,40 @@ music = {
 	file = "Zombie.ogg"
 }
 music = {
+	name = "Policy_Of_Truth"
+	file = "Policy_Of_Truth.ogg"
+}
+music = {
+	name = "Midlife_Crisis"
+	file = "Midlife_Crisis.ogg"
+}
+music = {
 	name = "Forgive_Me"
 	file = "Forgive_Me.ogg"
 }
 music = {
+	name = "Civil_War"
+	file = "Civil_War.ogg"
+}
+music = {
+	name = "Today_Was_A_Good_Day"
+	file = "Today_Was_A_Good_Day.ogg"
+}
+music = {
 	name = "My_Song"
 	file = "My_Song.ogg"
+}
+music = {
+	name = "Pretend_Were_Dead"
+	file = "Pretend_Were_Dead.ogg"
+}
+music = {
+	name = "Cult_of_Personality"
+	file = "Cult_of_Personality.ogg"
+}
+music = {
+	name = "Lay_Lady_Lay"
+	file = "Lay_Lady_Lay.ogg"
 }
 music = {
 	name = "Lifes_A_Bitch"
@@ -31,6 +63,18 @@ music = {
 	file = "Planet_Caravan.ogg"
 }
 music = {
+	name = "Buck_Dich"
+	file = "Buck_Dich.ogg"
+}
+music = {
+	name = "Gimme_All_Your_Lovin"
+	file = "Gimme_All_Your_Lovin.ogg"
+}
+music = {
 	name = "I_Aint_Mad_At_Cha"
 	file = "I_Aint_Mad_At_Cha.ogg"
+}
+music = {
+	name = "commercial1"
+	file = "commercial1.ogg"
 }
