@@ -32,6 +32,12 @@ music = {
 	}
 }
 music = {
+	song = "Hey_Man_Nice_Shot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Forgive_Me"
 	chance = {
 		factor = 1
@@ -50,6 +56,12 @@ music = {
 	}
 }
 music = {
+	song = "You_Know_How_We_Do_It"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "My_Song"
 	chance = {
 		factor = 1
@@ -63,6 +75,12 @@ music = {
 }
 music = {
 	song = "Cult_of_Personality"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Filth_Pig"
 	chance = {
 		factor = 1
 	}
@@ -87,6 +105,12 @@ music = {
 }
 music = {
 	song = "Southernplayalisticadillacmuzik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "It_Makes_Them_Disappear"
 	chance = {
 		factor = 1
 	}

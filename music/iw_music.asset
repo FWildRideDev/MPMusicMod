@@ -19,6 +19,10 @@ music = {
 	file = "Midlife_Crisis.ogg"
 }
 music = {
+	name = "Hey_Man_Nice_Shot"
+	file = "Hey_Man_Nice_Shot.ogg"
+}
+music = {
 	name = "Forgive_Me"
 	file = "Forgive_Me.ogg"
 }
@@ -31,6 +35,10 @@ music = {
 	file = "Today_Was_A_Good_Day.ogg"
 }
 music = {
+	name = "You_Know_How_We_Do_It"
+	file = "You_Know_How_We_Do_It.ogg"
+}
+music = {
 	name = "My_Song"
 	file = "My_Song.ogg"
 }
@@ -41,6 +49,10 @@ music = {
 music = {
 	name = "Cult_of_Personality"
 	file = "Cult_of_Personality.ogg"
+}
+music = {
+	name = "Filth_Pig"
+	file = "Filth_Pig.ogg"
 }
 music = {
 	name = "Lay_Lady_Lay"
@@ -57,6 +69,10 @@ music = {
 music = {
 	name = "Southernplayalisticadillacmuzik"
 	file = "Southernplayalisticadillacmuzik.ogg"
+}
+music = {
+	name = "It_Makes_Them_Disappear"
+	file = "It_Makes_Them_Disappear.ogg"
 }
 music = {
 	name = "Planet_Caravan"
