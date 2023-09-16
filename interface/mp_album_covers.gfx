@@ -1,0 +1,28 @@
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_album_cover_Shortbus_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_filter_Shortbus.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Foofighters_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Foofighters_Foofighters.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Boggydepot_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_jerrycantrell_Boggydepot.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Filthpig_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_ministry_Filthpig.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sehnsucht_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_rammstein_Sehnsucht.png"	
+		legacy_lazy_load = no
+	}
+}
+

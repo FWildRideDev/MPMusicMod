@@ -23,6 +23,10 @@ music = {
 	file = "Hey_Man_Nice_Shot.ogg"
 }
 music = {
+	name = "Ill_Stick_Around"
+	file = "Ill_Stick_Around.ogg"
+}
+music = {
 	name = "Forgive_Me"
 	file = "Forgive_Me.ogg"
 }
@@ -81,6 +85,10 @@ music = {
 music = {
 	name = "Buck_Dich"
 	file = "Buck_Dich.ogg"
+}
+music = {
+	name = "Dead_And_Bloated"
+	file = "Dead_And_Bloated.ogg"
 }
 music = {
 	name = "Gimme_All_Your_Lovin"

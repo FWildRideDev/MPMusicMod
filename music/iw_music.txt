@@ -38,6 +38,12 @@ music = {
 	}
 }
 music = {
+	song = "Ill_Stick_Around"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Forgive_Me"
 	chance = {
 		factor = 1
@@ -123,6 +129,12 @@ music = {
 }
 music = {
 	song = "Buck_Dich"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Dead_And_Bloated"
 	chance = {
 		factor = 1
 	}
