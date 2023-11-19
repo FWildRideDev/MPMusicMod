@@ -157,3 +157,9 @@ music = {
 		factor = 1
 	}
 }
+music = {
+	song = "Covet"
+	chance = {
+		factor = 1
+	}
+}

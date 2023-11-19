@@ -24,5 +24,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_rammstein_Sehnsucht.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Covet_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Basement_Covet.png"	
+		legacy_lazy_load = no
+	}
 }
 

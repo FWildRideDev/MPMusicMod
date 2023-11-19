@@ -102,3 +102,7 @@ music = {
 	name = "commercial1"
 	file = "commercial1.ogg"
 }
+music = {
+	name = "Covet"
+	file = "Covet.ogg"
+}
