@@ -163,3 +163,81 @@ music = {
 		factor = 1
 	}
 }
+music = {
+	song = "a_quick_one"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bloodhail"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_big_gloom"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hunter"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "telephony"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "leave_their_son"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "there_is_no_food"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "black_metal_records"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "HFS"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_future"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "deep_deep"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_dont_love"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "earthmover"
+	chance = {
+		factor = 1
+	}
+}

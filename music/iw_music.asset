@@ -106,3 +106,59 @@ music = {
 	name = "Covet"
 	file = "Covet.ogg"
 }
+music = {
+	name = "Covet"
+	file = "Covet.ogg"
+}
+music = {
+	name = "a_quick_one"
+	file = "a_quick_one.ogg"
+}
+music = {
+	name = "bloodhail"
+	file = "bloodhail.ogg"
+}
+music = {
+	name = "the_big_gloom"
+	file = "the_big_gloom.ogg"
+}
+music = {
+	name = "hunter"
+	file = "hunter.ogg"
+}
+music = {
+	name = "telephony"
+	file = "telephony.ogg"
+}
+music = {
+	name = "leave_their_son"
+	file = "leave_their_son.ogg"
+}
+music = {
+	name = "there_is_no_food"
+	file = "there_is_no_food.ogg"
+}
+music = {
+	name = "black_metal_records"
+	file = "black_metal_records.ogg"
+}
+music = {
+	name = "HFS"
+	file = "HFS.ogg"
+}
+music = {
+	name = "the_future"
+	file = "the_future.ogg"
+}
+music = {
+	name = "deep_deep"
+	file = "deep_deep.ogg"
+}
+music = {
+	name = "i_dont_love"
+	file = "i_dont_love.ogg"
+}
+music = {
+	name = "earthmover"
+	file = "earthmover.ogg"
+}
