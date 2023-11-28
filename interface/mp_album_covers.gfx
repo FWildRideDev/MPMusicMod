@@ -54,5 +54,55 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aerosmith_Janies_Got_A_Gun.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Alice_In_Chains_Rooster_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Alice_In_Chains_Rooster.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_the_cranberries_Zombie_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_the_cranberries_Zombie.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Depeche_Mode_Policy_Of_Truth_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Depeche_Mode_Policy_Of_Truth.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Faith_No_More_Midlife_crisis_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Faith_No_More_Midlife_crisis.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Godsmack_Forgive_Me_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Godsmack_Forgive_Me.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Gun_N_Roses_Civil_War_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Gun_N_Roses_Civil_War.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Ice_Cube_Today_Was_A_Good_day_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Ice_Cube_Today_Was_A_Good_day.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Ice_Cube_You_Know_How_We_Do_It_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Ice_Cube_You_Know_How_We_Do_It.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_L7_Pretend_Were_Dead_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_L7_Pretend_Were_Dead.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Living_Colour_Cult_Of_Personality_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Living_Colour_Cult_Of_Personality.png"	
+		legacy_lazy_load = no
+	}
 }
 
