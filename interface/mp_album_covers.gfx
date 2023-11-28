@@ -39,5 +39,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Giles_Corey.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Melting_Pot_Commercials_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Melting_Pot_Commercials.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Outkast_Southernplayalisticadillacmuzik_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Outkast_Southernplayalisticadillacmuzik.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Aerosmith_Janies_Got_A_Gun_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aerosmith_Janies_Got_A_Gun.png"	
+		legacy_lazy_load = no
+	}
 }
 
