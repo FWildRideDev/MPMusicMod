@@ -107,10 +107,6 @@ music = {
 	file = "Covet.ogg"
 }
 music = {
-	name = "Covet"
-	file = "Covet.ogg"
-}
-music = {
 	name = "a_quick_one"
 	file = "a_quick_one.ogg"
 }
@@ -161,4 +157,40 @@ music = {
 music = {
 	name = "earthmover"
 	file = "earthmover.ogg"
+}
+music = {
+	name = "the_haunting_presence"
+	file = "the_haunting_presence.ogg"
+}
+music = {
+	name = "blackest_bile"
+	file = "blackest_bile.ogg"
+}
+music = {
+	name = "grave_filled_with_books"
+	file = "grave_filled_with_books.ogg"
+}
+music = {
+	name = "empty_churches"
+	file = "empty_churches.ogg"
+}
+music = {
+	name = "im_going_to_do_it"
+	file = "im_going_to_do_it.ogg"
+}
+music = {
+	name = "spectral_bride"
+	file = "spectral_bride.ogg"
+}
+music = {
+	name = "NOIEGTWM"
+	file = "NOIEGTWM.ogg"
+}
+music = {
+	name = "a_sleeping_heart"
+	file = "a_sleeping_heart.ogg"
+}
+music = {
+	name = "buried_above_the_ground"
+	file = "buried_above_the_ground.ogg"
 }

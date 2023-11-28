@@ -241,3 +241,57 @@ music = {
 		factor = 1
 	}
 }
+music = {
+	song = "the_haunting_presence"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "blackest_bile"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "grave_filled_with_books"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "empty_churches"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "im_going_to_do_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "spectral_bride"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "NOIEGTWM"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "a_sleeping_heart"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "buried_above_the_ground"
+	chance = {
+		factor = 1
+	}
+}
