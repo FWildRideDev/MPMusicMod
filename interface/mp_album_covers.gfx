@@ -104,5 +104,60 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Living_Colour_Cult_Of_Personality.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Agata_Kristi_Opium_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Agata_Kristi_Opium.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Agata_Kristi_The_Shameful_Star_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Agata_Kristi_The_Shameful_Star.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Car_Man_Carmania_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Car_Man_Carmania.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_cg_bros_life_for_nothing_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_cg_bros_life_for_nothing.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Delphin_Vesna_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Delphin_Vesna.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_GROB_Starfall_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_GROB_Starfall.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_KINO_Black_Album_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_KINO_Black_Album.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_KINO_Star_Named_Sun_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_KINO_Star_Named_Sun.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mumiy_Troll_Marine_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mumiy_Troll_Marine.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sektor_Gaza_Hellraiser_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sektor_Gaza_Hellraiser.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sektor_Gaza_Narcological_University_of_Millions.png"	
+		legacy_lazy_load = no
+	}
 }
 

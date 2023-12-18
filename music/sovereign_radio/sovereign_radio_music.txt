@@ -1,0 +1,25 @@
+music_station = "sovereign_radio"
+music = {
+	song = "bsk"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "grob_song_soldier"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hellraiser"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "to_serve_russia"
+	chance = {
+		factor = 1
+	}
+}

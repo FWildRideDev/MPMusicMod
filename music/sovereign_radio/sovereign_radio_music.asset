@@ -1,0 +1,16 @@
+music = {
+	name = "bsk"
+	file = "bsk.ogg"
+}
+music = {
+	name = "grob_song_soldier"
+	file = "grob_song_soldier.ogg"
+}
+music = {
+	name = "hellraiser"
+	file = "hellraiser.ogg"
+}
+music = {
+	name = "to_serve_russia"
+	file = "to_serve_russia.ogg"
+}

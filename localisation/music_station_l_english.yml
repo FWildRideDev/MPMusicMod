@@ -1,5 +1,9 @@
 ﻿l_english:
  iw_test_station_TITLE:0 "Melting Pot Radio"
+ petersburg_99_TITLE:0 "Petersburg 99"
+ sovereign_radio_TITLE:0 "Sovereign Radio"
+
+ #Melting Pot Radio
  Janies_Got_A_Gun:0 "Aerosmith - Janie's Got A Gun \n\n\n\n\n\n£GFX_album_cover_Aerosmith_Janies_Got_A_Gun_Texticon\n\n\n\n\n\n\n"
  Rooster:0 "Alice in Chains - Rooster \n\n\n\n\n\n£GFX_album_cover_Alice_In_Chains_Rooster_Texticon\n\n\n\n\n\n\n"
  Zombie:0 "The Cranberries - Zombie \n\n\n\n\n\n£GFX_album_cover_the_cranberries_Zombie_Texticon\n\n\n\n\n\n\n"
@@ -49,3 +53,19 @@
  NOIEGTWM:0 "Giles Corey - No One Ever is Going to Want Me \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
  a_sleeping_heart:0 "Giles Corey - A Sleeping Heart \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
  buried_above_the_ground:0 "Giles Corey - Buried Above the Ground \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
+
+ #Petersburg 99
+ kukushka:0 "KINO - Kukushka\n\n\n\n\n\n£GFX_album_cover_KINO_Black_Album_Texticon\n\n\n\n\n\n\n"
+ star_named_sun:0 "KINO - Star Named Sun\n\n\n\n\n\n£GFX_album_cover_KINO_Star_Named_Sun_Texticon\n\n\n\n\n\n\n"
+ like_on_war:0 "Agata Kristi - Like in War\n\n\n\n\n\n£GFX_album_cover_Agata_Kristi_The_Shameful_Star_Texticon\n\n\n\n\n\n\n"
+ taiga:0 "Agata Kristi - Fabulous Taiga\n\n\n\n\n\n£GFX_album_cover_Agata_Kristi_Opium_Texticon\n\n\n\n\n\n\n"
+ san_francisco:0 "Car-Man - San Francisco\n\n\n\n\n\n£GFX_album_cover_Car_Man_Carmania_Texticon\n\n\n\n\n\n\n"
+ time_go_home:0 "Sektor Gaza - Time to go Home\n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon\n\n\n\n\n\n\n"
+ vesna:0 "Delphin - Spring\n\n\n\n\n\n£GFX_album_cover_Delphin_Vesna_Texticon\n\n\n\n\n\n\n"
+ vladivostok_2000:0 "Mumiy Troll - Vladivostok 2000\n\n\n\n\n\n£GFX_album_cover_Mumiy_Troll_Marine_Texticon\n\n\n\n\n\n\n"
+
+ #Sovereign Radio
+ bsk:0 "CG Bros - BSK\n\n\n\n\n\n£GFX_album_cover_cg_bros_life_for_nothing_Texticon\n\n\n\n\n\n\n"
+ grob_song_soldier:0 "Grazhdanskaya Oborona - Song of the Red Army Soldier\n\n\n\n\n\n£GFX_album_cover_GROB_Starfall_Texticon\n\n\n\n\n\n\n"
+ hellraiser:0 "Sektor Gaza - Hellraiser\n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Hellraiser_Texticon\n\n\n\n\n\n\n"
+ to_serve_russia:0 "To Serve Russia"

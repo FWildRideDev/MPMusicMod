@@ -1,0 +1,32 @@
+music = {
+	name = "kukushka"
+	file = "kukushka.ogg"
+}
+music = {
+	name = "star_named_sun"
+	file = "star_named_sun.ogg"
+}
+music = {
+	name = "like_on_war"
+	file = "like_on_war.ogg"
+}
+music = {
+	name = "taiga"
+	file = "taiga.ogg"
+}
+music = {
+	name = "san_francisco"
+	file = "san_francisco.ogg"
+}
+music = {
+	name = "time_go_home"
+	file = "time_go_home.ogg"
+}
+music = {
+	name = "vesna"
+	file = "vesna.ogg"
+}
+music = {
+	name = "vladivostok_2000"
+	file = "vladivostok_2000.ogg"
+}

@@ -1,0 +1,49 @@
+music_station = "petersburg_99"
+music = {
+	song = "kukushka"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "star_named_sun"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "like_on_war"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "taiga"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "san_francisco"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "time_go_home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "vesna"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "vladivostok_2000"
+	chance = {
+		factor = 1
+	}
+}
