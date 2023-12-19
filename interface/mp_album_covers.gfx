@@ -159,5 +159,30 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sektor_Gaza_Narcological_University_of_Millions.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Dschinghis_Khan_Dschinghis_Khan_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Dschinghis_Khan_Dschinghis_Khan.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Kipelov_Babylon_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Kipelov_Babylon.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lyube_Davai_Za_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Davai_Za.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lyube_Zone_Lyube_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Zone_Lyube.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Oleg_Gazmanov_Squadron_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oleg_Gazmanov_Squadron.png"	
+		legacy_lazy_load = no
+	}
 }
 

@@ -19,8 +19,24 @@ music = {
 	file = "san_francisco.ogg"
 }
 music = {
+	name = "moskau"
+	file = "moskau.ogg"
+}
+music = {
 	name = "time_go_home"
 	file = "time_go_home.ogg"
+}
+music = {
+	name = "esaul"
+	file = "esaul.ogg"
+}
+music = {
+	name = "horse"
+	file = "horse.ogg"
+}
+music = {
+	name = "lyube_davay"
+	file = "lyube_davay.ogg"
 }
 music = {
 	name = "vesna"
@@ -29,4 +45,24 @@ music = {
 music = {
 	name = "vladivostok_2000"
 	file = "vladivostok_2000.ogg"
+}
+music = {
+	name = "bsk"
+	file = "bsk.ogg"
+}
+music = {
+	name = "grob_song_soldier"
+	file = "grob_song_soldier.ogg"
+}
+music = {
+	name = "hellraiser"
+	file = "hellraiser.ogg"
+}
+music = {
+	name = "babylon"
+	file = "babylon.ogg"
+}
+music = {
+	name = "to_serve_russia"
+	file = "to_serve_russia.ogg"
 }

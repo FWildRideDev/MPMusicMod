@@ -30,7 +30,31 @@ music = {
 	}
 }
 music = {
+	song = "moskau"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "time_go_home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "esaul"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "horse"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lyube_davay"
 	chance = {
 		factor = 1
 	}
@@ -43,6 +67,36 @@ music = {
 }
 music = {
 	song = "vladivostok_2000"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bsk"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "grob_song_soldier"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hellraiser"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "babylon"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "to_serve_russia"
 	chance = {
 		factor = 1
 	}
