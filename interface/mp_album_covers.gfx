@@ -184,5 +184,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oleg_Gazmanov_Squadron.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Getbornagain_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Getbornagain.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Dirt_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Dirt.png"	
+		legacy_lazy_load = no
+	}
 }
 

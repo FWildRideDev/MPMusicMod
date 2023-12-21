@@ -2,13 +2,17 @@ music_station = "iw_test_station"
 music = {
 	song = "Janies_Got_A_Gun"
 	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "A_Little_Bitter"
 	chance = {
 		factor = 1
 	}
 }
 music = {
 	song = "Rooster"
-	chance = {
 	chance = {
 		factor = 1
 	}
@@ -50,7 +54,25 @@ music = {
 	}
 }
 music = {
+	song = "Chinese_Democracy"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Civil_War"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Eye_On_You"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "State_Of_Grace"
 	chance = {
 		factor = 1
 	}
@@ -69,6 +91,12 @@ music = {
 }
 music = {
 	song = "My_Song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Got_The_Life"
 	chance = {
 		factor = 1
 	}
@@ -116,6 +144,12 @@ music = {
 	}
 }
 music = {
+	song = "Do_Re_Mi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "It_Makes_Them_Disappear"
 	chance = {
 		factor = 1
@@ -134,7 +168,19 @@ music = {
 	}
 }
 music = {
+	song = "Fourth_Of_July"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Dead_And_Bloated"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Suggestions"
 	chance = {
 		factor = 1
 	}

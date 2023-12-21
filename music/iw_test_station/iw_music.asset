@@ -3,6 +3,10 @@ music = {
 	file = "Janies_Got_A_Gun.ogg"
 }
 music = {
+	name = "A_Little_Bitter"
+	file = "A_Little_Bitter.ogg"
+}
+music = {
 	name = "Rooster"
 	file = "Rooster.ogg"
 }
@@ -31,8 +35,20 @@ music = {
 	file = "Forgive_Me.ogg"
 }
 music = {
+	name = "Chinese_Democracy"
+	file = "Chinese_Democracy.ogg"
+}
+music = {
 	name = "Civil_War"
 	file = "Civil_War.ogg"
+}
+music = {
+	name = "Eye_On_You"
+	file = "Eye_On_You.ogg"
+}
+music = {
+	name = "State_Of_Grace"
+	file = "State_Of_Grace.ogg"
 }
 music = {
 	name = "Today_Was_A_Good_Day"
@@ -45,6 +61,10 @@ music = {
 music = {
 	name = "My_Song"
 	file = "My_Song.ogg"
+}
+music = {
+	name = "Got_The_Life"
+	file = "Got_The_Life.ogg"
 }
 music = {
 	name = "Pretend_Were_Dead"
@@ -67,6 +87,10 @@ music = {
 	file = "Lifes_A_Bitch.ogg"
 }
 music = {
+	name = "Do_Re_Mi"
+	file = "Do_Re_Mi.ogg"
+}
+music = {
 	name = "Rosa_Parks"
 	file = "Rosa_Parks.ogg"
 }
@@ -87,8 +111,16 @@ music = {
 	file = "Buck_Dich.ogg"
 }
 music = {
+	name = "Fourth_Of_July"
+	file = "Fourth_Of_July.ogg"
+}
+music = {
 	name = "Dead_And_Bloated"
 	file = "Dead_And_Bloated.ogg"
+}
+music = {
+	name = "Suggestions"
+	file = "Suggestions.ogg"
 }
 music = {
 	name = "Gimme_All_Your_Lovin"
