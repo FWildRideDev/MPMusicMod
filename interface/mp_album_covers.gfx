@@ -15,6 +15,11 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 	SpriteType = {
+		name = "GFX_album_cover_Korn_Follow_The_Leader_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Korn_Follow_The_Leader.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
 		name = "GFX_album_cover_Filthpig_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_ministry_Filthpig.png"	
 		legacy_lazy_load = no
@@ -50,13 +55,33 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 	SpriteType = {
-		name = "GFX_album_cover_Aerosmith_Janies_Got_A_Gun_Texticon"
-		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aerosmith_Janies_Got_A_Gun.png"	
+		name = "GFX_album_cover_Outkast_Aquemini_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Outkast_Aquemini.png"	
 		legacy_lazy_load = no
 	}
 	SpriteType = {
-		name = "GFX_album_cover_Alice_In_Chains_Rooster_Texticon"
-		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Alice_In_Chains_Rooster.png"	
+		name = "GFX_album_cover_Nirvana_Do_Re_Mi_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nirvana_Do_Re_Mi.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Aerosmith_Janies_Got_A_Gun_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aerosmith_Pump.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nas_Illmatic_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nas_Illmatic.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Getbornagain_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Getbornagain.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Dirt_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Dirt.png"	
 		legacy_lazy_load = no
 	}
 	SpriteType = {
@@ -82,6 +107,11 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_album_cover_Gun_N_Roses_Civil_War_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Gun_N_Roses_Civil_War.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Gun_N_Roses_Chinese_Democracy_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Gun_N_Roses_Chinese_Democracy.png"	
 		legacy_lazy_load = no
 	}
 	SpriteType = {
@@ -182,16 +212,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_album_cover_Oleg_Gazmanov_Squadron_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oleg_Gazmanov_Squadron.png"	
-		legacy_lazy_load = no
-	}
-	SpriteType = {
-		name = "GFX_album_cover_Getbornagain_Texticon"
-		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Getbornagain.png"	
-		legacy_lazy_load = no
-	}
-	SpriteType = {
-		name = "GFX_album_cover_Dirt_Texticon"
-		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Dirt.png"	
 		legacy_lazy_load = no
 	}
 }
