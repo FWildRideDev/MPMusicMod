@@ -1,7 +1,8 @@
 ﻿l_english:
- iw_test_station_TITLE:0 "Melting Pot Radio"
+ iw_test_station_TITLE:0 "95.3: The Melting Pot"
  petersburg_99_TITLE:0 "Petersburg 99"
  sovereign_radio_TITLE:0 "Sovereign Radio"
+ mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
  Janies_Got_A_Gun:0 "Aerosmith - Janie's Got A Gun \n\n\n\n\n\n£GFX_album_cover_Aerosmith_Janies_Got_A_Gun_Texticon\n\n\n\n\n\n\n"
@@ -78,3 +79,9 @@
  lyube_davay:0 "Lyube - Let's Drink For\n\n\n\n\n\n£GFX_album_cover_Lyube_Davai_Za_Texticon\n\n\n\n\n\n\n"
  babylon:0 "Kipelov - Babylon\n\n\n\n\n\n£GFX_album_cover_Kipelov_Babylon_Texticon\n\n\n\n\n\n\n"
  to_serve_russia:0 "To Serve Russia"
+ 
+ #MP Soundtack
+ Desert:0 "BLURIDGE - Desert \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"
+ Homicidal_Sleepwalker:0 "BLURIDGE - Homicidal Sleepwalker \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"
+ Heavy_Roller:0 "BLURIDGE - Heavy Roller \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"
+ Drown:0 "BLURIDGE - Drown \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"

@@ -75,6 +75,11 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 	SpriteType = {
+		name = "GFX_album_cover_BLURIDGE_Insomnia_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_BLURIDGE_Insomnia.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
 		name = "GFX_album_cover_Getbornagain_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Getbornagain.png"	
 		legacy_lazy_load = no

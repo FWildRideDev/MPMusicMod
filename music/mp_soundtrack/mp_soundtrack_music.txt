@@ -1,0 +1,25 @@
+music_station = "mp_soundtrack"
+music = {
+	song = "Desert"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Homicidal_Sleepwalker"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Heavy_Roller"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Drown"
+	chance = {
+		factor = 1
+	}
+}
