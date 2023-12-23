@@ -1,7 +1,7 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_radio_station_cover"
-		textureFile = "gfx/radio_station_cover.dds"
+		name = "GFX_petersburg_99_station_cover"
+		textureFile = "gfx/petersburg_99_radio_station_cover.png"
 		noOfFrames = 2
 	}
 }
