@@ -12,6 +12,12 @@ music = {
 	}
 }
 music = {
+	song = "bird"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "like_on_war"
 	chance = {
 		factor = 1
@@ -42,6 +48,12 @@ music = {
 	}
 }
 music = {
+	song = "forever"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "esaul"
 	chance = {
 		factor = 1
@@ -67,6 +79,24 @@ music = {
 }
 music = {
 	song = "vladivostok_2000"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "krematoriy_2001"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "last_warrior"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "peace_and_freedom"
 	chance = {
 		factor = 1
 	}

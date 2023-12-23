@@ -219,5 +219,30 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oleg_Gazmanov_Squadron.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Auktsyon_Bird_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Auktsyon_Bird.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Krematoriy_Three_Sources_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Krematoriy_Three_Sources.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Orgiya_Pravednikov_Catehumens_Leave_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Orgiya_Pravednikov_Catehumens_Leave.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Orgiya_Pravednikov_PVMZ_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Orgiya_Pravednikov_PVMZ.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Tsentr_Legends_Moscow_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Tsentr_Legends_Moscow.png"	
+		legacy_lazy_load = no
+	}
 }
 

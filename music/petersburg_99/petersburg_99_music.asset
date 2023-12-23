@@ -7,6 +7,10 @@ music = {
 	file = "star_named_sun.ogg"
 }
 music = {
+	name = "bird"
+	file = "bird.ogg"
+}
+music = {
 	name = "like_on_war"
 	file = "like_on_war.ogg"
 }
@@ -27,6 +31,10 @@ music = {
 	file = "time_go_home.ogg"
 }
 music = {
+	name = "forever"
+	file = "forever.ogg"
+}
+music = {
 	name = "esaul"
 	file = "esaul.ogg"
 }
@@ -45,6 +53,18 @@ music = {
 music = {
 	name = "vladivostok_2000"
 	file = "vladivostok_2000.ogg"
+}
+music = {
+	name = "krematoriy_2001"
+	file = "krematoriy_2001.ogg"
+}
+music = {
+	name = "last_warrior"
+	file = "last_warrior.ogg"
+}
+music = {
+	name = "peace_and_freedom"
+	file = "peace_and_freedom.ogg"
 }
 music = {
 	name = "bsk"
