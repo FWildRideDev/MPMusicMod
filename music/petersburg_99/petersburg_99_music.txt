@@ -30,6 +30,12 @@ music = {
 	}
 }
 music = {
+	song = "gibraltar"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "san_francisco"
 	chance = {
 		factor = 1
@@ -49,6 +55,18 @@ music = {
 }
 music = {
 	song = "forever"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "motherland"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "istay"
 	chance = {
 		factor = 1
 	}

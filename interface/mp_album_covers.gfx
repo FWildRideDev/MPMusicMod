@@ -244,5 +244,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Tsentr_Legends_Moscow.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Chyorniy_Obelisk_I_Will_Stay_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Chyorniy_Obelisk_I_Will_Stay.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Butusov_Favourites_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Butusov_Favourites.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Alisa_Its_Later_Than_You_Think_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Alisa_Its_Later_Than_You_Think.png"	
+		legacy_lazy_load = no
+	}
 }
 
