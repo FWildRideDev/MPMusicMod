@@ -23,6 +23,10 @@ music = {
 	file = "gibraltar.ogg"
 }
 music = {
+	name = "nautilus"
+	file = "nautilus.ogg"
+}
+music = {
 	name = "san_francisco"
 	file = "san_francisco.ogg"
 }
@@ -63,6 +67,10 @@ music = {
 	file = "vesna.ogg"
 }
 music = {
+	name = "serga"
+	file = "serga.ogg"
+}
+music = {
 	name = "vladivostok_2000"
 	file = "vladivostok_2000.ogg"
 }
@@ -71,16 +79,24 @@ music = {
 	file = "krematoriy_2001.ogg"
 }
 music = {
+	name = "time_machine"
+	file = "time_machine.ogg"
+}
+music = {
+	name = "serebro"
+	file = "serebro.ogg"
+}
+music = {
+	name = "kukriniksy"
+	file = "kukriniksy.ogg"
+}
+music = {
 	name = "last_warrior"
 	file = "last_warrior.ogg"
 }
 music = {
 	name = "peace_and_freedom"
 	file = "peace_and_freedom.ogg"
-}
-music = {
-	name = "bsk"
-	file = "bsk.ogg"
 }
 music = {
 	name = "grob_song_soldier"

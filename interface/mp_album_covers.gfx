@@ -259,5 +259,30 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Alisa_Its_Later_Than_You_Think.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Bi_2_Bi_2_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bi_2_Bi_2.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Kukrinksy_Kukrinksy_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Kukrinksy_Kukrinksy.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nautilus_Pompilius_Prince_of_Silence_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nautilus_Pompilius_Prince_of_Silence.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_SerGa_Dog_Waltz_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_SerGa_Dog_Waltz.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Time_Machine_Coming_Off_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Time_Machine_Coming_Off.png"	
+		legacy_lazy_load = no
+	}
 }
 
