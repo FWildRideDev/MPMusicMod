@@ -102,6 +102,12 @@ music = {
 	}
 }
 music = {
+	song = "pinkglasses"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "serga"
 	chance = {
 		factor = 1
@@ -138,6 +144,12 @@ music = {
 	}
 }
 music = {
+	song = "pilot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "last_warrior"
 	chance = {
 		factor = 1
@@ -151,6 +163,12 @@ music = {
 }
 music = {
 	song = "grob_song_soldier"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "smertinet"
 	chance = {
 		factor = 1
 	}

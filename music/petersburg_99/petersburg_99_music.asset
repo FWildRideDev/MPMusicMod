@@ -67,6 +67,10 @@ music = {
 	file = "vesna.ogg"
 }
 music = {
+	name = "pinkglasses"
+	file = "pinkglasses.ogg"
+}
+music = {
 	name = "serga"
 	file = "serga.ogg"
 }
@@ -91,6 +95,10 @@ music = {
 	file = "kukriniksy.ogg"
 }
 music = {
+	name = "pilot"
+	file = "pilot.ogg"
+}
+music = {
 	name = "last_warrior"
 	file = "last_warrior.ogg"
 }
@@ -101,6 +109,10 @@ music = {
 music = {
 	name = "grob_song_soldier"
 	file = "grob_song_soldier.ogg"
+}
+music = {
+	name = "smertinet"
+	file = "smertinet.ogg"
 }
 music = {
 	name = "hellraiser"
