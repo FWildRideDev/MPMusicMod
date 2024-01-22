@@ -15,6 +15,10 @@ music = {
 	file = "Zombie.ogg"
 }
 music = {
+	name = "Enjoy_The_Silence"
+	file = "Enjoy_The_Silence.ogg"
+}
+music = {
 	name = "Policy_Of_Truth"
 	file = "Policy_Of_Truth.ogg"
 }
@@ -75,6 +79,10 @@ music = {
 	file = "Cult_of_Personality.ogg"
 }
 music = {
+	name = "The_Fall"
+	file = "The_Fall.ogg"
+}
+music = {
 	name = "Filth_Pig"
 	file = "Filth_Pig.ogg"
 }
@@ -107,8 +115,16 @@ music = {
 	file = "Planet_Caravan.ogg"
 }
 music = {
+	name = "Amerika"
+	file = "Amerika.ogg"
+}
+music = {
 	name = "Buck_Dich"
 	file = "Buck_Dich.ogg"
+}
+music = {
+	name = "Black_Hole_Sun"
+	file = "Black_Hole_Sun.ogg"
 }
 music = {
 	name = "Fourth_Of_July"
@@ -225,4 +241,80 @@ music = {
 music = {
 	name = "buried_above_the_ground"
 	file = "buried_above_the_ground.ogg"
+}
+music = {
+	name = "dirty_little_secret"
+	file = "dirty_little_secret.ogg"
+}
+music = {
+	name = "gives_you_hell"
+	file = "gives_you_hell.ogg"
+}
+music = {
+	name = "it_ends_tonight"
+	file = "it_ends_tonight.ogg"
+}
+music = {
+	name = "move_along"
+	file = "move_along.ogg"
+}
+music = {
+	name = "adams_song"
+	file = "adams_song.ogg"
+}
+music = {
+	name = "all_the_small_things"
+	file = "all_the_small_things.ogg"
+}
+music = {
+	name = "bring_me_to_life"
+	file = "bring_me_to_life.ogg"
+}
+music = {
+	name = "american_idiot"
+	file = "american_idiot.ogg"
+}
+music = {
+	name = "in_the_end"
+	file = "in_the_end.ogg"
+}
+music = {
+	name = "lost"
+	file = "lost.ogg"
+}
+music = {
+	name = "numb"
+	file = "numb.ogg"
+}
+music = {
+	name = "what_ive_done"
+	file = "what_ive_done.ogg"
+}
+music = {
+	name = "welcome_to_the_black_parade"
+	file = "welcome_to_the_black_parade.ogg"
+}
+music = {
+	name = "thats_what_you_get"
+	file = "thats_what_you_get.ogg"
+}
+music = {
+	name = "i_dont_wanna_be_me"
+	file = "i_dont_wanna_be_me.ogg"
+}
+music = {
+	name = "gettin_jiggy_wit_it"
+	file = "gettin_jiggy_wit_it.ogg"
+}
+music = {
+	name = "men_in_black"
+	file = "men_in_black.ogg"
+}
+music = {
+	name = "miami"
+	file = "miami.ogg"
+}
+music = {
+	name = "will_2k"
+	file = "will_2k.ogg"
 }

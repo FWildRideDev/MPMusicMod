@@ -24,6 +24,12 @@ music = {
 	}
 }
 music = {
+	song = "Enjoy_The_Silence"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Policy_Of_Truth"
 	chance = {
 		factor = 1
@@ -114,6 +120,12 @@ music = {
 	}
 }
 music = {
+	song = "The_Fall"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Filth_Pig"
 	chance = {
 		factor = 1
@@ -162,7 +174,19 @@ music = {
 	}
 }
 music = {
+	song = "Amerika"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Buck_Dich"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Black_Hole_Sun"
 	chance = {
 		factor = 1
 	}
@@ -337,6 +361,120 @@ music = {
 }
 music = {
 	song = "buried_above_the_ground"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dirty_little_secret"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gives_you_hell"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "it_ends_tonight"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "move_along"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "adams_song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "all_the_small_things"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bring_me_to_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "american_idiot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "in_the_end"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lost"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "numb"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "what_ive_done"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "welcome_to_the_black_parade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "thats_what_you_get"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_dont_wanna_be_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gettin_jiggy_wit_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "men_in_black"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "miami"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "will_2k"
 	chance = {
 		factor = 1
 	}
