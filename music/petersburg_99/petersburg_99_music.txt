@@ -36,6 +36,12 @@ music = {
 	}
 }
 music = {
+	song = "dorogi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "nautilus"
 	chance = {
 		factor = 1
@@ -61,6 +67,12 @@ music = {
 }
 music = {
 	song = "forever"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "piknik"
 	chance = {
 		factor = 1
 	}

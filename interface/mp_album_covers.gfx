@@ -409,5 +409,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Will_Smith_Willennium.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Leningrad_For_Millions_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Leningrad_For_Millions.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Piknik_Kingdom_of_Crooked_Ones_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Piknik_Kingdom_of_Crooked_Ones.png"	
+		legacy_lazy_load = no
+	}
 }
 
