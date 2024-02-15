@@ -419,5 +419,30 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Piknik_Kingdom_of_Crooked_Ones.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_7rasa_First_Circle_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_7rasa_First_Circle.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_BoneyM_Rasputin_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_BoneyM_Rasputin.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_CGbros_Glamor_Whores_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_CGbros_Glamor_Whores.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Night_Snipers_Milestone_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Night_Snipers_Milestone.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nike_Borzov_SupermEND_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nike_Borzov_SupermEND.png"	
+		legacy_lazy_load = no
+	}
 }
 

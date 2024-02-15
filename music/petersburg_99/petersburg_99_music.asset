@@ -23,6 +23,10 @@ music = {
 	file = "gibraltar.ogg"
 }
 music = {
+	name = "31vesna"
+	file = "31vesna.ogg"
+}
+music = {
 	name = "dorogi"
 	file = "dorogi.ogg"
 }
@@ -37,6 +41,10 @@ music = {
 music = {
 	name = "moskau"
 	file = "moskau.ogg"
+}
+music = {
+	name = "rasputin"
+	file = "rasputin.ogg"
 }
 music = {
 	name = "time_go_home"
@@ -79,6 +87,10 @@ music = {
 	file = "pinkglasses.ogg"
 }
 music = {
+	name = "borzov"
+	file = "borzov.ogg"
+}
+music = {
 	name = "serga"
 	file = "serga.ogg"
 }
@@ -99,12 +111,20 @@ music = {
 	file = "serebro.ogg"
 }
 music = {
+	name = "bi2"
+	file = "bi2.ogg"
+}
+music = {
 	name = "kukriniksy"
 	file = "kukriniksy.ogg"
 }
 music = {
 	name = "pilot"
 	file = "pilot.ogg"
+}
+music = {
+	name = "cgbros"
+	file = "cgbros.ogg"
 }
 music = {
 	name = "last_warrior"
@@ -121,6 +141,10 @@ music = {
 music = {
 	name = "smertinet"
 	file = "smertinet.ogg"
+}
+music = {
+	name = "rasa"
+	file = "rasa.ogg"
 }
 music = {
 	name = "hellraiser"

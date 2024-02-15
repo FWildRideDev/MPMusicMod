@@ -36,6 +36,12 @@ music = {
 	}
 }
 music = {
+	song = "31vesna"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "dorogi"
 	chance = {
 		factor = 1
@@ -55,6 +61,12 @@ music = {
 }
 music = {
 	song = "moskau"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "rasputin"
 	chance = {
 		factor = 1
 	}
@@ -120,6 +132,12 @@ music = {
 	}
 }
 music = {
+	song = "borzov"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "serga"
 	chance = {
 		factor = 1
@@ -150,6 +168,12 @@ music = {
 	}
 }
 music = {
+	song = "bi2"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "kukriniksy"
 	chance = {
 		factor = 1
@@ -157,6 +181,12 @@ music = {
 }
 music = {
 	song = "pilot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "cgbros"
 	chance = {
 		factor = 1
 	}
@@ -181,6 +211,12 @@ music = {
 }
 music = {
 	song = "smertinet"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "rasa"
 	chance = {
 		factor = 1
 	}
