@@ -174,6 +174,18 @@ music = {
 	}
 }
 music = {
+	song = "splin"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "ekvator"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "kukriniksy"
 	chance = {
 		factor = 1
@@ -229,6 +241,12 @@ music = {
 }
 music = {
 	song = "babylon"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "nezovimenya"
 	chance = {
 		factor = 1
 	}

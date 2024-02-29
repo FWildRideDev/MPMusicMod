@@ -115,6 +115,14 @@ music = {
 	file = "bi2.ogg"
 }
 music = {
+	name = "splin"
+	file = "splin.ogg"
+}
+music = {
+	name = "ekvator"
+	file = "ekvator.ogg"
+}
+music = {
 	name = "kukriniksy"
 	file = "kukriniksy.ogg"
 }
@@ -153,6 +161,10 @@ music = {
 music = {
 	name = "babylon"
 	file = "babylon.ogg"
+}
+music = {
+	name = "nezovimenya"
+	file = "nezovimenya.ogg"
 }
 music = {
 	name = "to_serve_russia"

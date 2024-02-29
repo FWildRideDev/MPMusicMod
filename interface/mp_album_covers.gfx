@@ -444,5 +444,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nike_Borzov_SupermEND.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Magnitnaya_Anomaliya_Clouds_With_Lipstick_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Magnitnaya_Anomaliya_Clouds_With_Lipstick.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Splean_Pomegranate_Album_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Splean_Pomegranate_Album.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Valeriy_Petryaev_Afgan_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Valeriy_Petryaev_Afgan.png"	
+		legacy_lazy_load = no
+	}
 }
 
