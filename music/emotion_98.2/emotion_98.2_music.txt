@@ -1,0 +1,67 @@
+music_station = "emotion_98.2"
+music = {
+	song = "dirty_little_secret"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gives_you_hell"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "it_ends_tonight"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "move_along"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bring_me_to_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "in_the_end"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lost"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "numb"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "what_ive_done"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "welcome_to_the_black_parade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "thats_what_you_get"
+	chance = {
+		factor = 1
+	}
+}

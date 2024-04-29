@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_emotion_98.2_radio_station_cover"
+		textureFile = "gfx/emotion_98.2_radio_station_cover.png"
+		noOfFrames = 2
+	}
+}

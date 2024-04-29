@@ -1,6 +1,7 @@
 ﻿l_english:
  iw_test_station_TITLE:0 "95.3: The Melting Pot"
  petersburg_99_TITLE:0 "Petersburg 99"
+ emotion_98.2_TITLE:0 "Emotion 98.2"
  mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
@@ -65,20 +66,9 @@
  NOIEGTWM:0 "Giles Corey - No One Ever is Going to Want Me \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
  a_sleeping_heart:0 "Giles Corey - A Sleeping Heart \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
  buried_above_the_ground:0 "Giles Corey - Buried Above the Ground \n\n\n\n\n\n£GFX_album_cover_Giles_Corey_Texticon\n\n\n\n\n\n\n"
- dirty_little_secret:0 "The All-American Rejects - Dirty Little Secret \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
- gives_you_hell:0 "The All-American Rejects - Gives You Hell \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_When_The_World_Comes_Down_Texticon\n\n\n\n\n\n\n"
- it_ends_tonight:0 "The All-American Rejects - It Ends Tonight \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
- move_along:0 "The All-American Rejects - Move Along \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
  adams_song:0 "Blink-182 - Adam's Song \n\n\n\n\n\n£GFX_album_cover_Blink_182_Enema_Of_The_State_Texticon\n\n\n\n\n\n\n"
  all_the_small_things:0 "Blink-182 - All The Small Things \n\n\n\n\n\n£GFX_album_cover_Blink_182_Enema_Of_The_State_Texticon\n\n\n\n\n\n\n"
- bring_me_to_life:0 "Evanescence - Bring Me To Life \n\n\n\n\n\n£GFX_album_cover_Evanescence_Fallen_Texticon\n\n\n\n\n\n\n"
  american_idiot:0 "Green Day - American Idiot \n\n\n\n\n\n£GFX_album_cover_Green_Day_American_Idiot_Texticon\n\n\n\n\n\n\n"
- in_the_end:0 "Linkin Park - In The End \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Hybrid_Theory_Texticon\n\n\n\n\n\n\n"
- lost:0 "Linkin Park - Lost \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Meteora_Texticon\n\n\n\n\n\n\n"
- numb:0 "Linkin Park - Numb \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Meteora_Texticon\n\n\n\n\n\n\n"
- what_ive_done:0 "Linkin Park - What I've Done \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Minutes_To_Midnight_Texticon\n\n\n\n\n\n\n"
- welcome_to_the_black_parade:0 "My Chemical Romance - Welcome to the Black Parade \n\n\n\n\n\n£GFX_album_cover_My_Chemical_Romance_The_Black_Parade_Texticon\n\n\n\n\n\n\n"
- thats_what_you_get:0 "Paramore - That's What You Get \n\n\n\n\n\n£GFX_album_cover_Paramore_Riot_Texticon\n\n\n\n\n\n\n"
  i_dont_wanna_be_me:0 "Type O Negative - Don't Wanna Be Me \n\n\n\n\n\n£GFX_album_cover_Type_O_Negative_Life_Is_Killing_Me_Texticon\n\n\n\n\n\n\n"
  gettin_jiggy_wit_it:0 "Will Smith - Gettin Jiggy Wit It \n\n\n\n\n\n£GFX_album_cover_Will_Smith_Big_Willie_Style_Texticon\n\n\n\n\n\n\n"
  men_in_black:0 "Will Smith - Men In Black \n\n\n\n\n\n£GFX_album_cover_Will_Smith_Big_Willie_Style_Texticon\n\n\n\n\n\n\n"
@@ -129,6 +119,19 @@
  ekvator:0 "Magnitnaya Anomaliya - Equator \n\n\n\n\n\n£GFX_album_cover_Magnitnaya_Anomaliya_Clouds_With_Lipstick_Texticon\n\n\n\n\n\n\n"
  nezovimenya:0 "Valeriy Petryaev - Don't Call Me \n\n\n\n\n\n£GFX_album_cover_Valeriy_Petryaev_Afgan_Texticon\n\n\n\n\n\n\n"
  to_serve_russia:0 "To Serve Russia \n\n\n\n\n\n£GFX_album_cover_Red_Army_Choir_We_Are_The_Army_Of_The_People_Texticon\n\n\n\n\n\n\n"
+ 
+ #Emotion 98.2
+ dirty_little_secret:0 "The All-American Rejects - Dirty Little Secret \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
+ gives_you_hell:0 "The All-American Rejects - Gives You Hell \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_When_The_World_Comes_Down_Texticon\n\n\n\n\n\n\n"
+ it_ends_tonight:0 "The All-American Rejects - It Ends Tonight \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
+ move_along:0 "The All-American Rejects - Move Along \n\n\n\n\n\n£GFX_album_cover_All_American_Rejects_Move_Along_Texticon\n\n\n\n\n\n\n"
+ bring_me_to_life:0 "Evanescence - Bring Me To Life \n\n\n\n\n\n£GFX_album_cover_Evanescence_Fallen_Texticon\n\n\n\n\n\n\n"
+ in_the_end:0 "Linkin Park - In The End \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Hybrid_Theory_Texticon\n\n\n\n\n\n\n"
+ lost:0 "Linkin Park - Lost \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Meteora_Texticon\n\n\n\n\n\n\n"
+ numb:0 "Linkin Park - Numb \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Meteora_Texticon\n\n\n\n\n\n\n"
+ what_ive_done:0 "Linkin Park - What I've Done \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Minutes_To_Midnight_Texticon\n\n\n\n\n\n\n"
+ welcome_to_the_black_parade:0 "My Chemical Romance - Welcome to the Black Parade \n\n\n\n\n\n£GFX_album_cover_My_Chemical_Romance_The_Black_Parade_Texticon\n\n\n\n\n\n\n"
+ thats_what_you_get:0 "Paramore - That's What You Get \n\n\n\n\n\n£GFX_album_cover_Paramore_Riot_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
  Desert:0 "BLURIDGE - Desert \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"

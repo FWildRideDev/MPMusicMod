@@ -1,0 +1,44 @@
+music = {
+	name = "dirty_little_secret"
+	file = "dirty_little_secret.ogg"
+}
+music = {
+	name = "gives_you_hell"
+	file = "gives_you_hell.ogg"
+}
+music = {
+	name = "it_ends_tonight"
+	file = "it_ends_tonight.ogg"
+}
+music = {
+	name = "move_along"
+	file = "move_along.ogg"
+}
+music = {
+	name = "bring_me_to_life"
+	file = "bring_me_to_life.ogg"
+}
+music = {
+	name = "in_the_end"
+	file = "in_the_end.ogg"
+}
+music = {
+	name = "lost"
+	file = "lost.ogg"
+}
+music = {
+	name = "numb"
+	file = "numb.ogg"
+}
+music = {
+	name = "what_ive_done"
+	file = "what_ive_done.ogg"
+}
+music = {
+	name = "welcome_to_the_black_parade"
+	file = "welcome_to_the_black_parade.ogg"
+}
+music = {
+	name = "thats_what_you_get"
+	file = "thats_what_you_get.ogg"
+}
