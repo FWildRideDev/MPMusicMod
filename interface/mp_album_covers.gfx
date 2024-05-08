@@ -70,6 +70,11 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 	SpriteType = {
+		name = "GFX_album_cover_Nirvana_MTV_Unplugged_in_NY_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nirvana_MTV_Unplugged_in_NY.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
 		name = "GFX_album_cover_Pantera_Far_Beyond_Driven_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Pantera_Far_Beyond_Driven.png"	
 		legacy_lazy_load = no
@@ -117,6 +122,11 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_album_cover_BLURIDGE_Insomnia_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_BLURIDGE_Insomnia.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Aliceinchains_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Aliceinchains.png"	
 		legacy_lazy_load = no
 	}
 	SpriteType = {
@@ -202,6 +212,11 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_album_cover_Delphin_Vesna_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Delphin_Vesna.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_GROB_Lunar_Coup_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_GROB_Lunar_Coup.png"	
 		legacy_lazy_load = no
 	}
 	SpriteType = {
@@ -370,6 +385,11 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 	SpriteType = {
+		name = "GFX_album_cover_Green_Day_Dookie_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Green_Day_Dookie.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
 		name = "GFX_album_cover_Linkin_Park_Hybrid_Theory_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Linkin_Park_Hybrid_Theory.png"	
 		legacy_lazy_load = no
@@ -457,6 +477,16 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_album_cover_Valeriy_Petryaev_Afgan_Texticon"
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Valeriy_Petryaev_Afgan.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Machine_Head_Burn_My_Eyes_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Machine_Head_Burn_My_Eyes.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_White_Stripes_Elephant_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_White_Stripes_Elephant.png"	
 		legacy_lazy_load = no
 	}
 }

@@ -6,19 +6,7 @@ music = {
 	}
 }
 music = {
-	song = "gives_you_hell"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "it_ends_tonight"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "move_along"
 	chance = {
 		factor = 1
 	}
@@ -61,6 +49,18 @@ music = {
 }
 music = {
 	song = "thats_what_you_get"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "boulevard_of_broken_dreams"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "wake_me_up_when_september_ends"
 	chance = {
 		factor = 1
 	}

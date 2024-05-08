@@ -3,16 +3,8 @@ music = {
 	file = "dirty_little_secret.ogg"
 }
 music = {
-	name = "gives_you_hell"
-	file = "gives_you_hell.ogg"
-}
-music = {
 	name = "it_ends_tonight"
 	file = "it_ends_tonight.ogg"
-}
-music = {
-	name = "move_along"
-	file = "move_along.ogg"
 }
 music = {
 	name = "bring_me_to_life"
@@ -41,4 +33,12 @@ music = {
 music = {
 	name = "thats_what_you_get"
 	file = "thats_what_you_get.ogg"
+}
+music = {
+	name = "boulevard_of_broken_dreams"
+	file = "boulevard_of_broken_dreams.ogg"
+}
+music = {
+	name = "wake_me_up_when_september_ends"
+	file = "wake_me_up_when_september_ends.ogg"
 }

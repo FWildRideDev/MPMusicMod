@@ -12,6 +12,18 @@ music = {
 	}
 }
 music = {
+	song = "Brush_Away"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Shame_In_You"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Rooster"
 	chance = {
 		factor = 1
@@ -120,7 +132,13 @@ music = {
 	}
 }
 music = {
-	song = "The_Fall"
+	song = "Lava"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lay_Lady_Lay"
 	chance = {
 		factor = 1
 	}
@@ -132,7 +150,7 @@ music = {
 	}
 }
 music = {
-	song = "Lay_Lady_Lay"
+	song = "The_Fall"
 	chance = {
 		factor = 1
 	}
@@ -157,6 +175,12 @@ music = {
 }
 music = {
 	song = "Do_Re_Mi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "The_Man_Who_Sold_The_World"
 	chance = {
 		factor = 1
 	}
@@ -366,6 +390,18 @@ music = {
 	}
 }
 music = {
+	song = "gives_you_hell"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "move_along"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "adams_song"
 	chance = {
 		factor = 1
@@ -379,6 +415,12 @@ music = {
 }
 music = {
 	song = "american_idiot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "basket_case"
 	chance = {
 		factor = 1
 	}
@@ -409,6 +451,18 @@ music = {
 }
 music = {
 	song = "will_2k"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "old"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "seven_nation_army"
 	chance = {
 		factor = 1
 	}

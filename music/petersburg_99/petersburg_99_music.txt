@@ -222,6 +222,12 @@ music = {
 	}
 }
 music = {
+	song = "the_road_runs_far"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "smertinet"
 	chance = {
 		factor = 1

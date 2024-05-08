@@ -7,6 +7,14 @@ music = {
 	file = "A_Little_Bitter.ogg"
 }
 music = {
+	name = "Brush_Away"
+	file = "Brush_Away.ogg"
+}
+music = {
+	name = "Shame_In_You"
+	file = "Shame_In_You.ogg"
+}
+music = {
 	name = "Rooster"
 	file = "Rooster.ogg"
 }
@@ -79,16 +87,20 @@ music = {
 	file = "Cult_of_Personality.ogg"
 }
 music = {
-	name = "The_Fall"
-	file = "The_Fall.ogg"
+	name = "Lava"
+	file = "Lava.ogg"
+}
+music = {
+	name = "Lay_Lady_Lay"
+	file = "Lay_Lady_Lay.ogg"
 }
 music = {
 	name = "Filth_Pig"
 	file = "Filth_Pig.ogg"
 }
 music = {
-	name = "Lay_Lady_Lay"
-	file = "Lay_Lady_Lay.ogg"
+	name = "The_Fall"
+	file = "The_Fall.ogg"
 }
 music = {
 	name = "Lifes_A_Bitch"
@@ -97,6 +109,10 @@ music = {
 music = {
 	name = "Do_Re_Mi"
 	file = "Do_Re_Mi.ogg"
+}
+music = {
+	name = "The_Man_Who_Sold_The_World"
+	file = "The_Man_Who_Sold_The_World.ogg"
 }
 music = {
 	name = "Rosa_Parks"
@@ -243,6 +259,14 @@ music = {
 	file = "buried_above_the_ground.ogg"
 }
 music = {
+	name = "gives_you_hell"
+	file = "gives_you_hell.ogg"
+}
+music = {
+	name = "move_along"
+	file = "move_along.ogg"
+}
+music = {
 	name = "adams_song"
 	file = "adams_song.ogg"
 }
@@ -253,6 +277,10 @@ music = {
 music = {
 	name = "american_idiot"
 	file = "american_idiot.ogg"
+}
+music = {
+	name = "basket_case"
+	file = "basket_case.ogg"
 }
 music = {
 	name = "i_dont_wanna_be_me"
@@ -273,4 +301,12 @@ music = {
 music = {
 	name = "will_2k"
 	file = "will_2k.ogg"
+}
+music = {
+	name = "old"
+	file = "old.ogg"
+}
+music = {
+	name = "seven_nation_army"
+	file = "seven_nation_army.ogg"
 }

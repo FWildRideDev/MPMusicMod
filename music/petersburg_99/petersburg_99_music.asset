@@ -147,6 +147,10 @@ music = {
 	file = "grob_song_soldier.ogg"
 }
 music = {
+	name = "the_road_runs_far"
+	file = "the_road_runs_far.ogg"
+}
+music = {
 	name = "smertinet"
 	file = "smertinet.ogg"
 }
