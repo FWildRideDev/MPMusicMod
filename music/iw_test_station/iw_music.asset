@@ -310,3 +310,11 @@ music = {
 	name = "seven_nation_army"
 	file = "seven_nation_army.ogg"
 }
+music = {
+	name = "fantastic_voyage"
+	file = "fantastic_voyage.ogg"
+}
+music = {
+	name = "gangstas_paradise"
+	file = "gangstas_paradise.ogg"
+}

@@ -14,3 +14,19 @@ music = {
 	name = "Drown"
 	file = "Drown.ogg"
 }
+music = {
+	name = "Melting_Pot_Theme_1"
+	file = "Melting_Pot_Theme_1.ogg"
+}
+music = {
+	name = "Melting_Pot_Theme_2"
+	file = "Melting_Pot_Theme_2.ogg"
+}
+music = {
+	name = "Portofino_1"
+	file = "Portofino_1.ogg"
+}
+music = {
+	name = "Portofino_2"
+	file = "Portofino_2.ogg"
+}

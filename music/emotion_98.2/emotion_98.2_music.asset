@@ -31,6 +31,14 @@ music = {
 	file = "welcome_to_the_black_parade.ogg"
 }
 music = {
+	name = "for_a_pessimist_im_pretty_optimistic"
+	file = "for_a_pessimist_im_pretty_optimistic.ogg"
+}
+music = {
+	name = "misery_business"
+	file = "misery_business.ogg"
+}
+music = {
 	name = "thats_what_you_get"
 	file = "thats_what_you_get.ogg"
 }

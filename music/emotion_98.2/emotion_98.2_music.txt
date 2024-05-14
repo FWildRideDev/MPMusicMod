@@ -48,6 +48,18 @@ music = {
 	}
 }
 music = {
+	song = "for_a_pessimist_im_pretty_optimistic"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "misery_business"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "thats_what_you_get"
 	chance = {
 		factor = 1

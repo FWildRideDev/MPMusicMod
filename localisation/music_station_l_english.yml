@@ -83,6 +83,8 @@
  will_2k:0 "Will Smith - Will 2K \n\n\n\n\n\n£GFX_album_cover_Will_Smith_Willennium_Texticon\n\n\n\n\n\n\n"
  old:0 "Machine Head - Old \n\n\n\n\n\n£GFX_album_cover_Machine_Head_Burn_My_Eyes_Texticon\n\n\n\n\n\n\n"
  seven_nation_army:0 "The White Stripes - Seven Nation Army \n\n\n\n\n\n£GFX_album_cover_The_White_Stripes_Elephant_Texticon\n\n\n\n\n\n\n"
+ fantastic_voyage:0 "Coolio - Fantastic Voyage \n\n\n\n\n\n£GFX_album_cover_Coolio_It_Takes_a_Thief_Texticon\n\n\n\n\n\n\n"
+ gangstas_paradise:0 "Coolio - Gangsta's Paradise \n\n\n\n\n\n£GFX_album_cover_Coolio_Gangstas_Paradise_Texticon\n\n\n\n\n\n\n"
 
  #Petersburg 99
  kukushka:0 "KINO - Kukushka \n\n\n\n\n\n£GFX_album_cover_KINO_Black_Album_Texticon\n\n\n\n\n\n\n"
@@ -139,11 +141,17 @@
  numb:0 "Linkin Park - Numb \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Meteora_Texticon\n\n\n\n\n\n\n"
  what_ive_done:0 "Linkin Park - What I've Done \n\n\n\n\n\n£GFX_album_cover_Linkin_Park_Minutes_To_Midnight_Texticon\n\n\n\n\n\n\n"
  welcome_to_the_black_parade:0 "My Chemical Romance - Welcome to the Black Parade \n\n\n\n\n\n£GFX_album_cover_My_Chemical_Romance_The_Black_Parade_Texticon\n\n\n\n\n\n\n"
+ for_a_pessimist_im_pretty_optimistic:0 "Paramore - For a Pessimist, I'm Pretty Optimistic \n\n\n\n\n\n£GFX_album_cover_Paramore_Riot_Texticon\n\n\n\n\n\n\n"
+ misery_business:0 "Paramore - Misery Business \n\n\n\n\n\n£GFX_album_cover_Paramore_Riot_Texticon\n\n\n\n\n\n\n"
  thats_what_you_get:0 "Paramore - That's What You Get \n\n\n\n\n\n£GFX_album_cover_Paramore_Riot_Texticon\n\n\n\n\n\n\n"
  boulevard_of_broken_dreams:0 "Green Day - Boulevard Of Broken Dreams \n\n\n\n\n\n£GFX_album_cover_Green_Day_American_Idiot_Texticon\n\n\n\n\n\n\n"
  wake_me_up_when_september_ends:0 "Green Day - Wake Me Up When September Ends \n\n\n\n\n\n£GFX_album_cover_Green_Day_American_Idiot_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
+ Portofino_1:0 "Raymond Scott - Portofino 1 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"
+ Portofino_2:0 "Raymond Scott - Portofino 2 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"
+ Melting_Pot_Theme_1:0 "Deadrin - Melting Pot Theme 1 \n\n\n\n\n\n£GFX_album_cover_Melting_Pot_Soundtrack_Texticon\n\n\n\n\n\n\n"
+ Melting_Pot_Theme_2:0 "Deadrin - Melting Pot Theme 2 \n\n\n\n\n\n£GFX_album_cover_Melting_Pot_Soundtrack_Texticon\n\n\n\n\n\n\n"
  Desert:0 "BLURIDGE - Desert \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"
  Homicidal_Sleepwalker:0 "BLURIDGE - Homicidal Sleepwalker \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"
  Heavy_Roller:0 "BLURIDGE - Heavy Roller \n\n\n\n\n\n£GFX_album_cover_BLURIDGE_Insomnia_Texticon\n\n\n\n\n\n\n"

@@ -1,5 +1,29 @@
 music_station = "mp_soundtrack"
 music = {
+	song = "Portofino_1"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Portofino_2"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Melting_Pot_Theme_1"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Melting_Pot_Theme_2"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Desert"
 	chance = {
 		factor = 1

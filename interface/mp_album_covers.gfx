@@ -489,5 +489,25 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_White_Stripes_Elephant.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Coolio_Gangstas_Paradise_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Coolio_Gangstas_Paradise.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Coolio_It_Takes_a_Thief_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Coolio_It_Takes_a_Thief.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Melting_Pot_Soundtrack_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Melting_Pot_Soundtrack.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Raymond_Scott_Manhattan_Research_Inc.png"	
+		legacy_lazy_load = no
+	}
 }
 

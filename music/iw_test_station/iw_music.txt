@@ -467,3 +467,15 @@ music = {
 		factor = 1
 	}
 }
+music = {
+	song = "fantastic_voyage"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gangstas_paradise"
+	chance = {
+		factor = 1
+	}
+}
