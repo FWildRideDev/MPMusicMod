@@ -12,7 +12,43 @@ music = {
 	}
 }
 music = {
+	song = "Covet"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "adams_song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_miss_you"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "bring_me_to_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "breaking_the_habit"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "crawling"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "faint"
 	chance = {
 		factor = 1
 	}
@@ -31,6 +67,12 @@ music = {
 }
 music = {
 	song = "numb"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "somewhere_i_belong"
 	chance = {
 		factor = 1
 	}
@@ -73,6 +115,96 @@ music = {
 }
 music = {
 	song = "wake_me_up_when_september_ends"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "time_for_miracles"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "whataya_want_from_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bvb_in_the_end"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "knives_and_pens"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dance_dance"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sugar_were_goin_down"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "thnks_fr_th_mmrs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "mr_brightside"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "love_like_woe"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "perfect"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "untitled"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "welcome_to_my_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "with_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_kill"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_hate_everything_about_you"
 	chance = {
 		factor = 1
 	}

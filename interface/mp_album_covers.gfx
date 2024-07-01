@@ -509,5 +509,235 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Raymond_Scott_Manhattan_Research_Inc.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Adam_Lambert_For_Your_Entertainment_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Adam_Lambert_For_Your_Entertainment.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Aliceinchains_Facelift_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Aliceinchains_Facelift.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Bad_Religion_Recipe_for_Hate_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bad_Religion_Recipe_for_Hate.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Beastie_Boys_Ill_Communication_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Beastie_Boys_Ill_Communication.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Black_Veil_Brides_We_Stitch_These_Wounds_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Black_Veil_Brides_We_Stitch_These_Wounds.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Black_Veil_Brides_Wretched_and_Divine_The_Story_of_the_Wild_Ones_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Black_Veil_Brides_Wretched_and_Divine_The_Story_of_the_Wild_Ones.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Blink_182_Blink_182_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Blink_182_Blink_182.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Bloc_Party_Silent_Alarm_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bloc_Party_Silent_Alarm.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Creed_Human_Clay_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Creed_Human_Clay.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Cui_Bono_Evil_Ride_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Cui_Bono_Evil_Ride.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Fallout_Boy_From_Under_the_Cork_Tree_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Fallout_Boy_From_Under_the_Cork_Tree.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Fallout_Boy_Infinity_On_High_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Fallout_Boy_Infinity_On_High.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Foster_The_People_Torches_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Foster_The_People_Torches.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Goldfinger_Stomping_Ground_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Goldfinger_Stomping_Ground.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Green_Day_21st_Century_Breakdown_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Green_Day_21st_Century_Breakdown.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Heavy_Young_Heathens_Heavy_Young_Heathens_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Heavy_Young_Heathens_Heavy_Young_Heathens.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Ignite_A_Place_Called_Home_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Ignite_A_Place_Called_Home.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Jimmy_Eat_World_Bleed_American_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Jimmy_Eat_World_Bleed_American.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Kanye_West_Graduation_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Kanye_West_Graduation.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_KMFDM_WWIII_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_KMFDM_WWIII.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Linkin_Park_Living_Things_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Linkin_Park_Living_Things.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Maybeshewill_I_Was_Here_For_a_Moment_Then_I_Was_Gone_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Maybeshewill_I_Was_Here_For_a_Moment_Then_I_Was_Gone.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Maybeshewill_Not_for_Want_of_Trying_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Maybeshewill_Not_for_Want_of_Trying.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mobb_Deep_The_Infamous_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mobb_Deep_The_Infamous.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nickelback_All_The_Right_Reasons_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nickelback_All_The_Right_Reasons.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nickelback_Silver_Side_Up_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nickelback_Silver_Side_Up.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_No_Use_for_a_Name_The_Feel_Good_Record_of_the_Year_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_No_Use_for_a_Name_The_Feel_Good_Record_of_the_Year.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Offspring_Americana_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Offspring_Americana.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Pixies_Surfer_Rosa_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Pixies_Surfer_Rosa.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Pokerface_Next_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Pokerface_Next.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Red_Hot_Chili_Peppers_Stadium_Arcadium_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Red_Hot_Chili_Peppers_Stadium_Arcadium.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Saint_Motel_Forplay_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Saint_Motel_Forplay.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Simple_Plan_No_Pads_No_Helmets_Just_Balls_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Simple_Plan_No_Pads_No_Helmets_Just_Balls.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Simple_Plan_Still_Not_Getting_Any_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Simple_Plan_Still_Not_Getting_Any.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sum_41_All_Killer_No_Filler_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sum_41_All_Killer_No_Filler.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sum_41_Chuck_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sum_41_Chuck.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sum_41_Does_This_Look_Infected_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sum_41_Does_This_Look_Infected.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sum_41_Underclass_Hero_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sum_41_Underclass_Hero.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Black_Keys_Attack_And_Release_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Black_Keys_Attack_And_Release.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Killers_Hot_Fuss_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Killers_Hot_Fuss.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Offspring_Rise_and_Fall_Rage_and_Grace_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Offspring_Rise_and_Fall_Rage_and_Grace.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Ready_Set_Im_Alive_Im_Dreaming_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Ready_Set_Im_Alive_Im_Dreaming.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Thirty_Seconds_To_Mars_A_Beautiful_Lie_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Thirty_Seconds_To_Mars_A_Beautiful_Lie.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Thirty_Seconds_To_Mars_This_Is_War_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Thirty_Seconds_To_Mars_This_Is_War.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Three_Days_Grace_Three_Days_Grace_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Three_Days_Grace_Three_Days_Grace.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Transformers_2_Soundtrack_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Transformers_2_Soundtrack.png"	
+		legacy_lazy_load = no
+	}
 }
 

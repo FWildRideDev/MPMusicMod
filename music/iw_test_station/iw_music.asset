@@ -167,10 +167,6 @@ music = {
 	file = "commercial1.ogg"
 }
 music = {
-	name = "Covet"
-	file = "Covet.ogg"
-}
-music = {
 	name = "a_quick_one"
 	file = "a_quick_one.ogg"
 }
@@ -267,10 +263,6 @@ music = {
 	file = "move_along.ogg"
 }
 music = {
-	name = "adams_song"
-	file = "adams_song.ogg"
-}
-music = {
 	name = "all_the_small_things"
 	file = "all_the_small_things.ogg"
 }
@@ -317,4 +309,196 @@ music = {
 music = {
 	name = "gangstas_paradise"
 	file = "gangstas_paradise.ogg"
+}
+music = {
+	name = "21st_century_breakdown"
+	file = "21st_century_breakdown.ogg"
+}
+music = {
+	name = "99_red_balloons"
+	file = "99_red_balloons.ogg"
+}
+music = {
+	name = "american_jesus"
+	file = "american_jesus.ogg"
+}
+music = {
+	name = "americana"
+	file = "americana.ogg"
+}
+music = {
+	name = "biggest_lie"
+	file = "biggest_lie.ogg"
+}
+music = {
+	name = "burn_it_down"
+	file = "burn_it_down.ogg"
+}
+music = {
+	name = "cant_tell_me_nothing"
+	file = "cant_tell_me_nothing.ogg"
+}
+music = {
+	name = "castle_of_glass"
+	file = "castle_of_glass.ogg"
+}
+music = {
+	name = "closer_to_the_edge"
+	file = "closer_to_the_edge.ogg"
+}
+music = {
+	name = "dani_california"
+	file = "dani_california.ogg"
+}
+music = {
+	name = "dear_dictator"
+	file = "dear_dictator.ogg"
+}
+music = {
+	name = "fat_lip"
+	file = "fat_lip.ogg"
+}
+music = {
+	name = "fight_for_your_rights"
+	file = "fight_for_your_rights.ogg"
+}
+music = {
+	name = "flashing_lights"
+	file = "flashing_lights.ogg"
+}
+music = {
+	name = "good_life"
+	file = "good_life.ogg"
+}
+music = {
+	name = "good_morning"
+	file = "good_morning.ogg"
+}
+music = {
+	name = "helicopter"
+	file = "helicopter.ogg"
+}
+music = {
+	name = "higher"
+	file = "higher.ogg"
+}
+music = {
+	name = "homecoming"
+	file = "homecoming.ogg"
+}
+music = {
+	name = "how_you_remind_me"
+	file = "how_you_remind_me.ogg"
+}
+music = {
+	name = "i_wonder"
+	file = "i_wonder.ogg"
+}
+music = {
+	name = "in_too_deep"
+	file = "in_too_deep.ogg"
+}
+music = {
+	name = "march_of_the_dogs"
+	file = "march_of_the_dogs.ogg"
+}
+music = {
+	name = "new_divide"
+	file = "new_divide.ogg"
+}
+music = {
+	name = "not_for_want_of_trying"
+	file = "not_for_want_of_trying.ogg"
+}
+music = {
+	name = "one_mistake"
+	file = "one_mistake.ogg"
+}
+music = {
+	name = "photograph"
+	file = "photograph.ogg"
+}
+music = {
+	name = "pieces"
+	file = "pieces.ogg"
+}
+music = {
+	name = "pumped_up_kicks"
+	file = "pumped_up_kicks.ogg"
+}
+music = {
+	name = "red_paper_lanterns"
+	file = "red_paper_lanterns.ogg"
+}
+music = {
+	name = "sabotage"
+	file = "sabotage.ogg"
+}
+music = {
+	name = "savin_me"
+	file = "savin_me.ogg"
+}
+music = {
+	name = "sha_la_la_la"
+	file = "sha_la_la_la.ogg"
+}
+music = {
+	name = "shook_ones_pt_ii"
+	file = "shook_ones_pt_ii.ogg"
+}
+music = {
+	name = "smile_like_you_mean_it"
+	file = "smile_like_you_mean_it.ogg"
+}
+music = {
+	name = "somebody_told_me"
+	file = "somebody_told_me.ogg"
+}
+music = {
+	name = "stars_and_stripes"
+	file = "stars_and_stripes.ogg"
+}
+music = {
+	name = "still_waiting"
+	file = "still_waiting.ogg"
+}
+music = {
+	name = "strange_times"
+	file = "strange_times.ogg"
+}
+music = {
+	name = "stronger"
+	file = "stronger.ogg"
+}
+music = {
+	name = "the_kids_arent_alright"
+	file = "the_kids_arent_alright.ogg"
+}
+music = {
+	name = "the_middle"
+	file = "the_middle.ogg"
+}
+music = {
+	name = "the_pretender"
+	file = "the_pretender.ogg"
+}
+music = {
+	name = "this_is_war"
+	file = "this_is_war.ogg"
+}
+music = {
+	name = "veteran"
+	file = "veteran.ogg"
+}
+music = {
+	name = "we_die_young"
+	file = "we_die_young.ogg"
+}
+music = {
+	name = "where_is_my_mind"
+	file = "where_is_my_mind.ogg"
+}
+music = {
+	name = "youre_gonna_go_far_kid"
+	file = "youre_gonna_go_far_kid.ogg"
 }

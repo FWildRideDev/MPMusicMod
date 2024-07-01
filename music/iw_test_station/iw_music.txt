@@ -30,6 +30,12 @@ music = {
 	}
 }
 music = {
+	song = "we_die_young"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Zombie"
 	chance = {
 		factor = 1
@@ -61,6 +67,12 @@ music = {
 }
 music = {
 	song = "Ill_Stick_Around"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_pretender"
 	chance = {
 		factor = 1
 	}
@@ -252,12 +264,6 @@ music = {
 	}
 }
 music = {
-	song = "Covet"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "a_quick_one"
 	chance = {
 		factor = 1
@@ -402,13 +408,13 @@ music = {
 	}
 }
 music = {
-	song = "adams_song"
+	song = "all_the_small_things"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "all_the_small_things"
+	song = "21st_century_breakdown"
 	chance = {
 		factor = 1
 	}
@@ -421,6 +427,24 @@ music = {
 }
 music = {
 	song = "basket_case"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "burn_it_down"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "castle_of_glass"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "new_divide"
 	chance = {
 		factor = 1
 	}
@@ -475,6 +499,258 @@ music = {
 }
 music = {
 	song = "gangstas_paradise"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "american_jesus"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sabotage"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "strange_times"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "helicopter"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "higher"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "one_mistake"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "pumped_up_kicks"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "99_red_balloons"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sha_la_la_la"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "veteran"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_middle"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "cant_tell_me_nothing"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "flashing_lights"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "good_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "good_morning"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "homecoming"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_wonder"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "stronger"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "smile_like_you_mean_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "somebody_told_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "stars_and_stripes"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "not_for_want_of_trying"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "red_paper_lanterns"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "shook_ones_pt_ii"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "how_you_remind_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "photograph"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "savin_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "biggest_lie"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "americana"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_kids_arent_alright"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "youre_gonna_go_far_kid"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "where_is_my_mind"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "fight_for_your_rights"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dani_california"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dear_dictator"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "fat_lip"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "in_too_deep"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "march_of_the_dogs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "still_waiting"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "pieces"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "closer_to_the_edge"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "this_is_war"
 	chance = {
 		factor = 1
 	}

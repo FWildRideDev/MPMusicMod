@@ -7,6 +7,14 @@ music = {
 	file = "it_ends_tonight.ogg"
 }
 music = {
+	name = "Covet"
+	file = "Covet.ogg"
+}
+music = {
+	name = "adams_song"
+	file = "adams_song.ogg"
+}
+music = {
 	name = "bring_me_to_life"
 	file = "bring_me_to_life.ogg"
 }
@@ -49,4 +57,84 @@ music = {
 music = {
 	name = "wake_me_up_when_september_ends"
 	file = "wake_me_up_when_september_ends.ogg"
+}
+music = {
+	name = "breaking_the_habit"
+	file = "breaking_the_habit.ogg"
+}
+music = {
+	name = "bvb_in_the_end"
+	file = "bvb_in_the_end.ogg"
+}
+music = {
+	name = "crawling"
+	file = "crawling.ogg"
+}
+music = {
+	name = "dance_dance"
+	file = "dance_dance.ogg"
+}
+music = {
+	name = "faint"
+	file = "faint.ogg"
+}
+music = {
+	name = "i_hate_everything_about_you"
+	file = "i_hate_everything_about_you.ogg"
+}
+music = {
+	name = "i_miss_you"
+	file = "i_miss_you.ogg"
+}
+music = {
+	name = "knives_and_pens"
+	file = "knives_and_pens.ogg"
+}
+music = {
+	name = "love_like_woe"
+	file = "love_like_woe.ogg"
+}
+music = {
+	name = "mr_brightside"
+	file = "mr_brightside.ogg"
+}
+music = {
+	name = "perfect"
+	file = "perfect.ogg"
+}
+music = {
+	name = "sugar_were_goin_down"
+	file = "sugar_were_goin_down.ogg"
+}
+music = {
+	name = "somewhere_i_belong"
+	file = "somewhere_i_belong.ogg"
+}
+music = {
+	name = "the_kill"
+	file = "the_kill.ogg"
+}
+music = {
+	name = "thnks_fr_th_mmrs"
+	file = "thnks_fr_th_mmrs.ogg"
+}
+music = {
+	name = "time_for_miracles"
+	file = "time_for_miracles.ogg"
+}
+music = {
+	name = "untitled"
+	file = "untitled.ogg"
+}
+music = {
+	name = "welcome_to_my_life"
+	file = "welcome_to_my_life.ogg"
+}
+music = {
+	name = "whataya_want_from_me"
+	file = "whataya_want_from_me.ogg"
+}
+music = {
+	name = "with_me"
+	file = "with_me.ogg"
 }
