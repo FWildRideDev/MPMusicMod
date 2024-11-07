@@ -6,6 +6,12 @@ music = {
 	}
 }
 music = {
+	song = "unhappy_song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "star_named_sun"
 	chance = {
 		factor = 1
@@ -90,6 +96,12 @@ music = {
 	}
 }
 music = {
+	song = "piknik_piknik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "motherland"
 	chance = {
 		factor = 1
@@ -97,6 +109,12 @@ music = {
 }
 music = {
 	song = "istay"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "khaki_ball"
 	chance = {
 		factor = 1
 	}
@@ -198,6 +216,12 @@ music = {
 	}
 }
 music = {
+	song = "bsk"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "cgbros"
 	chance = {
 		factor = 1
@@ -211,6 +235,12 @@ music = {
 }
 music = {
 	song = "peace_and_freedom"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "long_happy_life"
 	chance = {
 		factor = 1
 	}
@@ -259,6 +289,12 @@ music = {
 }
 music = {
 	song = "to_serve_russia"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "what_is_autumn"
 	chance = {
 		factor = 1
 	}

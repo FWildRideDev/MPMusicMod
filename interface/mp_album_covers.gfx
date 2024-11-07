@@ -739,5 +739,85 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Transformers_2_Soundtrack.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_ADtR_Homesick_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_ADtR_Homesick.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_ATCQ_Peoples_Instinct_Travels_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_ATCQ_Peoples_Instinct_Travels.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Avril_Lavigne_Let_Go_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Avril_Lavigne_Let_Go.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Chyorniy_Obelisk_Revolution_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Chyorniy_Obelisk_Revolution.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_DDT_Whistled_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_DDT_Whistled.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_GROB_LaHL_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_GROB_LaHL.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Jet_Get_Born_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Jet_Get_Born.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Massive_Attack_Mezzanine_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Massive_Attack_Mezzanine.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_My_Chemical_Romance_Three_Cheers_for_Sweet_Revenge_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_My_Chemical_Romance_Three_Cheers_for_Sweet_Revenge.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nirvana_In_Utero_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nirvana_In_Utero.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Piknik_Hierloglyph_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Piknik_Hierloglyph.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_RAtM_Battle_of_LA_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_RAtM_Battle_of_LA.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_RAtM_RAtM_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_RAtM_RAtM.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Self_Ornament_and_Crime_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Self_Ornament_and_Crime.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_TSSF_Under_Soil_and_Dirt_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_TSSF_Under_Soil_and_Dirt.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Wheatus_Wheatus_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Wheatus_Wheatus.png"	
+		legacy_lazy_load = no
+	}
 }
 

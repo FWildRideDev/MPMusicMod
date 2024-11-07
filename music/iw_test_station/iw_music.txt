@@ -192,6 +192,12 @@ music = {
 	}
 }
 music = {
+	song = "heart_shaped_box"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "The_Man_Who_Sold_The_World"
 	chance = {
 		factor = 1
@@ -732,13 +738,19 @@ music = {
 	}
 }
 music = {
+	song = "pieces"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "still_waiting"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "pieces"
+	song = "underclass_hero"
 	chance = {
 		factor = 1
 	}
@@ -751,6 +763,60 @@ music = {
 }
 music = {
 	song = "this_is_war"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sk8er_boi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "are_you_gonna_be_my_girl"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "angel"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "guerilla_radio"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "killing_in_the_name"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "out_with_a_bang"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "roam"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "can_i_kick_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "teenage_dirtbag"
 	chance = {
 		factor = 1
 	}

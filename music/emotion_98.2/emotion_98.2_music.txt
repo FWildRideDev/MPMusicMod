@@ -84,6 +84,18 @@ music = {
 	}
 }
 music = {
+	song = "helena"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "im_not_okay_i_promise"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "welcome_to_the_black_parade"
 	chance = {
 		factor = 1
@@ -174,6 +186,12 @@ music = {
 	}
 }
 music = {
+	song = "im_just_a_kid"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "perfect"
 	chance = {
 		factor = 1
@@ -192,6 +210,12 @@ music = {
 	}
 }
 music = {
+	song = "walking_disaster"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "with_me"
 	chance = {
 		factor = 1
@@ -205,6 +229,18 @@ music = {
 }
 music = {
 	song = "i_hate_everything_about_you"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "complicated"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "another_song_about_the_weekend"
 	chance = {
 		factor = 1
 	}

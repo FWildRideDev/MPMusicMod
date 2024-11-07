@@ -138,3 +138,27 @@ music = {
 	name = "with_me"
 	file = "with_me.ogg"
 }
+music = {
+	name = "helena"
+	file = "helena.ogg"
+}
+music = {
+	name = "im_not_okay_i_promise"
+	file = "im_not_okay_i_promise.ogg"
+}
+music = {
+	name = "im_just_a_kid"
+	file = "im_just_a_kid.ogg"
+}
+music = {
+	name = "walking_disaster"
+	file = "walking_disaster.ogg"
+}
+music = {
+	name = "complicated"
+	file = "complicated.ogg"
+}
+music = {
+	name = "another_song_about_the_weekend"
+	file = "another_song_about_the_weekend.ogg"
+}

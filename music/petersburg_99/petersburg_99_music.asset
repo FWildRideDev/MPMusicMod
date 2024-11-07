@@ -174,3 +174,27 @@ music = {
 	name = "to_serve_russia"
 	file = "to_serve_russia.ogg"
 }
+music = {
+	name = "unhappy_song"
+	file = "unhappy_song.ogg"
+}
+music = {
+	name = "long_happy_life"
+	file = "long_happy_life.ogg"
+}
+music = {
+	name = "khaki_ball"
+	file = "khaki_ball.ogg"
+}
+music = {
+	name = "piknik_piknik"
+	file = "piknik_piknik.ogg"
+}
+music = {
+	name = "bsk"
+	file = "bsk.ogg"
+}
+music = {
+	name = "what_is_autumn"
+	file = "what_is_autumn.ogg"
+}

@@ -502,3 +502,47 @@ music = {
 	name = "youre_gonna_go_far_kid"
 	file = "youre_gonna_go_far_kid.ogg"
 }
+music = {
+	name = "heart_shaped_box"
+	file = "heart_shaped_box.ogg"
+}
+music = {
+	name = "underclass_hero"
+	file = "underclass_hero.ogg"
+}
+music = {
+	name = "sk8er_boi"
+	file = "sk8er_boi.ogg"
+}
+music = {
+	name = "are_you_gonna_be_my_girl"
+	file = "are_you_gonna_be_my_girl.ogg"
+}
+music = {
+	name = "angel"
+	file = "angel.ogg"
+}
+music = {
+	name = "guerilla_radio"
+	file = "guerilla_radio.ogg"
+}
+music = {
+	name = "killing_in_the_name"
+	file = "killing_in_the_name.ogg"
+}
+music = {
+	name = "out_with_a_bang"
+	file = "out_with_a_bang.ogg"
+}
+music = {
+	name = "roam"
+	file = "roam.ogg"
+}
+music = {
+	name = "can_i_kick_it"
+	file = "can_i_kick_it.ogg"
+}
+music = {
+	name = "teenage_dirtbag"
+	file = "teenage_dirtbag.ogg"
+}
