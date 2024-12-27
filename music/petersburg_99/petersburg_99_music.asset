@@ -119,6 +119,10 @@ music = {
 	file = "splin.ogg"
 }
 music = {
+	name = "mayak"
+	file = "mayak.ogg"
+}
+music = {
 	name = "ekvator"
 	file = "ekvator.ogg"
 }

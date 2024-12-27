@@ -198,6 +198,12 @@ music = {
 	}
 }
 music = {
+	song = "mayak"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "ekvator"
 	chance = {
 		factor = 1

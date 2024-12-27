@@ -819,5 +819,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Wheatus_Wheatus.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Splean_Split_Personality_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Splean_Split_Personality.png"	
+		legacy_lazy_load = no
+	}
 }
 
