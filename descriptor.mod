@@ -3,4 +3,4 @@ tags={
 	"Sound"
 }
 name="Melting Pot Music Mod"
-supported_version="1.14.*"
+supported_version="1.15.*"

@@ -824,5 +824,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Splean_Split_Personality.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Yeah_Yeah_Yeahs_Fever_to_Tell_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Yeah_Yeah_Yeahs_Fever_to_Tell.png"	
+		legacy_lazy_load = no
+	}
 }
 

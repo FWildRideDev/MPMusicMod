@@ -546,3 +546,7 @@ music = {
 	name = "teenage_dirtbag"
 	file = "teenage_dirtbag.ogg"
 }
+music = {
+	name = "maps"
+	file = "maps.ogg"
+}
