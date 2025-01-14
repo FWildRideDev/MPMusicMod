@@ -95,6 +95,18 @@ music = {
 	file = "love_like_woe.ogg"
 }
 music = {
+	name = "bite_to_break_skin"
+	file = "bite_to_break_skin.ogg"
+}
+music = {
+	name = "calling_all_cars"
+	file = "calling_all_cars.ogg"
+}
+music = {
+	name = "cant_be_saved"
+	file = "cant_be_saved.ogg"
+}
+music = {
 	name = "mr_brightside"
 	file = "mr_brightside.ogg"
 }

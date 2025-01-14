@@ -186,6 +186,24 @@ music = {
 	}
 }
 music = {
+	song = "bite_to_break_skin"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "calling_all_cars"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "cant_be_saved"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "im_just_a_kid"
 	chance = {
 		factor = 1
