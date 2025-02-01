@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_contemporary_punk_106.5_radio_station_cover"
+		textureFile = "gfx/contemporary_punk_106.5_radio_station_cover.png"
+		noOfFrames = 2
+	}
+}

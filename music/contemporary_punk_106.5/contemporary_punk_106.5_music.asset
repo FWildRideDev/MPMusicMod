@@ -1,0 +1,104 @@
+music = {
+	name = "when_your_heart_stops_beating"
+	file = "when_your_heart_stops_beating.ogg"
+}
+music = {
+	name = "gives_you_hell"
+	file = "gives_you_hell.ogg"
+}
+music = {
+	name = "move_along"
+	file = "move_along.ogg"
+}
+music = {
+	name = "sk8er_boi"
+	file = "sk8er_boi.ogg"
+}
+music = {
+	name = "all_the_small_things"
+	file = "all_the_small_things.ogg"
+}
+music = {
+	name = "feeling_this"
+	file = "feeling_this.ogg"
+}
+music = {
+	name = "first_date"
+	file = "first_date.ogg"
+}
+music = {
+	name = "1985"
+	file = "1985.ogg"
+}
+music = {
+	name = "99_red_balloons"
+	file = "99_red_balloons.ogg"
+}
+music = {
+	name = "american_idiot"
+	file = "american_idiot.ogg"
+}
+music = {
+	name = "basket_case"
+	file = "basket_case.ogg"
+}
+music = {
+	name = "my_own_worst_enemy"
+	file = "my_own_worst_enemy.ogg"
+}
+music = {
+	name = "jamie_all_over"
+	file = "jamie_all_over.ogg"
+}
+music = {
+	name = "want_you_bad"
+	file = "want_you_bad.ogg"
+}
+music = {
+	name = "why_dont_you_get_a_job"
+	file = "why_dont_you_get_a_job.ogg"
+}
+music = {
+	name = "roam"
+	file = "roam.ogg"
+}
+music = {
+	name = "los_angeles"
+	file = "los_angeles.ogg"
+}
+music = {
+	name = "stuck_in_america"
+	file = "stuck_in_america.ogg"
+}
+music = {
+	name = "fat_lip"
+	file = "fat_lip.ogg"
+}
+music = {
+	name = "in_too_deep"
+	file = "in_too_deep.ogg"
+}
+music = {
+	name = "march_of_the_dogs"
+	file = "march_of_the_dogs.ogg"
+}
+music = {
+	name = "summer"
+	file = "summer.ogg"
+}
+music = {
+	name = "underclass_hero"
+	file = "underclass_hero.ogg"
+}
+music = {
+	name = "teenage_dirtbag"
+	file = "teenage_dirtbag.ogg"
+}
+music = {
+	name = "lights_and_sounds"
+	file = "lights_and_sounds.ogg"
+}
+music = {
+	name = "ocean_avenue"
+	file = "ocean_avenue.ogg"
+}

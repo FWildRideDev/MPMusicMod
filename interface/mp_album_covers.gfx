@@ -839,5 +839,115 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Senses_Fail_Still_Searching.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Boys_Like_Girls_Boys_Like_Girls_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Boys_Like_Girls_Boys_Like_Girls.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Fallout_Boy_Take_This_To_Your_Grave_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Fallout_Boy_Take_This_To_Your_Grave.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Good_Charlotte_The_Young_and_the_Hopeless_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Good_Charlotte_The_Young_and_the_Hopeless.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Motion_City_Soundtrack_Commit_This_to_Memory_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Motion_City_Soundtrack_Commit_This_to_Memory.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sleeping_with_Sirens_Lets_Cheers_To_This_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sleeping_with_Sirens_Lets_Cheers_To_This.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Story_Of_The_Year_Page_Avenue_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Story_Of_The_Year_Page_Avenue.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sugarcult_Palm_Trees_and_Power_Lines_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sugarcult_Palm_Trees_and_Power_Lines.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Taking_Back_Sunday_Tell_all_your_friends_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Taking_Back_Sunday_Tell_all_your_friends.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_We_the_Kings_We_the_Kings_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_We_the_Kings_We_the_Kings.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_44_When_Your_Heart_Stops_Beating_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_+44_When_Your_Heart_Stops_Beating.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Blink_182_Take_Off_Your_Pants_and_Jacket_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Blink_182_Take_Off_Your_Pants_and_Jacket.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Bowling_for_Soup_A_Hangover_You_Dont_Deserve_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bowling_for_Soup_A_Hangover_You_Don't_Deserve.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lit_A_Place_in_the_Sun_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lit_A_Place_in_the_Sun.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mayday_Parade_A_Lesson_in_Romantics_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mayday_Parade_A_Lesson_in_Romantics.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sugarcult_Lights_Out_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sugarcult_Lights_Out.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sugarcult_Start_Static_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sugarcult_Start_Static.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_The_Offspring_Conspiracy_of_One_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_The_Offspring_Conspiracy_of_One.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Yellowcard_Lights_and_Sounds_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Yellowcard_Lights_and_Sounds.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Yellowcard_Ocean_Avenue_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Yellowcard_Ocean_Avenue.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nailbomb_Pointblank_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nailbomb_Pointblank.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Rise_Against_The_Sufferer_and_the_Witness_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Rise_Against_The_Sufferer_&_the_Witness.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_System_Of_A_Down_Steal_This_Album_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_System_Of_A_Down_Steal_This_Album.png"	
+		legacy_lazy_load = no
+	}
 }
 

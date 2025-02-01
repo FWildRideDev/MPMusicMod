@@ -402,37 +402,7 @@ music = {
 	}
 }
 music = {
-	song = "gives_you_hell"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "move_along"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "all_the_small_things"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "21st_century_breakdown"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "american_idiot"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "basket_case"
 	chance = {
 		factor = 1
 	}
@@ -552,12 +522,6 @@ music = {
 	}
 }
 music = {
-	song = "99_red_balloons"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "sha_la_la_la"
 	chance = {
 		factor = 1
@@ -565,12 +529,6 @@ music = {
 }
 music = {
 	song = "veteran"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "the_middle"
 	chance = {
 		factor = 1
 	}
@@ -720,24 +678,6 @@ music = {
 	}
 }
 music = {
-	song = "fat_lip"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "in_too_deep"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "march_of_the_dogs"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "pieces"
 	chance = {
 		factor = 1
@@ -745,12 +685,6 @@ music = {
 }
 music = {
 	song = "still_waiting"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "underclass_hero"
 	chance = {
 		factor = 1
 	}
@@ -768,12 +702,6 @@ music = {
 	}
 }
 music = {
-	song = "sk8er_boi"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "are_you_gonna_be_my_girl"
 	chance = {
 		factor = 1
@@ -781,6 +709,12 @@ music = {
 }
 music = {
 	song = "angel"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "boom"
 	chance = {
 		factor = 1
 	}
@@ -804,25 +738,25 @@ music = {
 	}
 }
 music = {
-	song = "roam"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "can_i_kick_it"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "teenage_dirtbag"
+	song = "maps"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "maps"
+	song = "world_of_shit"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "prayer_of_the_refugee"
 	chance = {
 		factor = 1
 	}

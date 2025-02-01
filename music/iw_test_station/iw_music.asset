@@ -255,26 +255,6 @@ music = {
 	file = "buried_above_the_ground.ogg"
 }
 music = {
-	name = "gives_you_hell"
-	file = "gives_you_hell.ogg"
-}
-music = {
-	name = "move_along"
-	file = "move_along.ogg"
-}
-music = {
-	name = "all_the_small_things"
-	file = "all_the_small_things.ogg"
-}
-music = {
-	name = "american_idiot"
-	file = "american_idiot.ogg"
-}
-music = {
-	name = "basket_case"
-	file = "basket_case.ogg"
-}
-music = {
 	name = "i_dont_wanna_be_me"
 	file = "i_dont_wanna_be_me.ogg"
 }
@@ -315,10 +295,6 @@ music = {
 	file = "21st_century_breakdown.ogg"
 }
 music = {
-	name = "99_red_balloons"
-	file = "99_red_balloons.ogg"
-}
-music = {
 	name = "american_jesus"
 	file = "american_jesus.ogg"
 }
@@ -355,10 +331,6 @@ music = {
 	file = "dear_dictator.ogg"
 }
 music = {
-	name = "fat_lip"
-	file = "fat_lip.ogg"
-}
-music = {
 	name = "fight_for_your_rights"
 	file = "fight_for_your_rights.ogg"
 }
@@ -393,14 +365,6 @@ music = {
 music = {
 	name = "i_wonder"
 	file = "i_wonder.ogg"
-}
-music = {
-	name = "in_too_deep"
-	file = "in_too_deep.ogg"
-}
-music = {
-	name = "march_of_the_dogs"
-	file = "march_of_the_dogs.ogg"
 }
 music = {
 	name = "new_divide"
@@ -475,10 +439,6 @@ music = {
 	file = "the_kids_arent_alright.ogg"
 }
 music = {
-	name = "the_middle"
-	file = "the_middle.ogg"
-}
-music = {
 	name = "the_pretender"
 	file = "the_pretender.ogg"
 }
@@ -507,14 +467,6 @@ music = {
 	file = "heart_shaped_box.ogg"
 }
 music = {
-	name = "underclass_hero"
-	file = "underclass_hero.ogg"
-}
-music = {
-	name = "sk8er_boi"
-	file = "sk8er_boi.ogg"
-}
-music = {
 	name = "are_you_gonna_be_my_girl"
 	file = "are_you_gonna_be_my_girl.ogg"
 }
@@ -535,18 +487,22 @@ music = {
 	file = "out_with_a_bang.ogg"
 }
 music = {
-	name = "roam"
-	file = "roam.ogg"
-}
-music = {
 	name = "can_i_kick_it"
 	file = "can_i_kick_it.ogg"
 }
 music = {
-	name = "teenage_dirtbag"
-	file = "teenage_dirtbag.ogg"
-}
-music = {
 	name = "maps"
 	file = "maps.ogg"
+}
+music = {
+	name = "boom"
+	file = "boom.ogg"
+}
+music = {
+	name = "world_of_shit"
+	file = "world_of_shit.ogg"
+}
+music = {
+	name = "prayer_of_the_refugee"
+	file = "prayer_of_the_refugee.ogg"
 }

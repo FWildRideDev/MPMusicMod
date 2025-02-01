@@ -19,6 +19,10 @@ music = {
 	file = "bring_me_to_life.ogg"
 }
 music = {
+	name = "the_middle"
+	file = "the_middle.ogg"
+}
+music = {
 	name = "in_the_end"
 	file = "in_the_end.ogg"
 }
@@ -173,4 +177,44 @@ music = {
 music = {
 	name = "another_song_about_the_weekend"
 	file = "another_song_about_the_weekend.ogg"
+}
+music = {
+	name = "the_great_escape"
+	file = "the_great_escape.ogg"
+}
+music = {
+	name = "grand_theft_autumn"
+	file = "grand_theft_autumn.ogg"
+}
+music = {
+	name = "the_anthem"
+	file = "the_anthem.ogg"
+}
+music = {
+	name = "sweetness"
+	file = "sweetness.ogg"
+}
+music = {
+	name = "everything_is_alright"
+	file = "everything_is_alright.ogg"
+}
+music = {
+	name = "if_you_cant_hang"
+	file = "if_you_cant_hang.ogg"
+}
+music = {
+	name = "until_the_day_i_die"
+	file = "until_the_day_i_die.ogg"
+}
+music = {
+	name = "memory"
+	file = "memory.ogg"
+}
+music = {
+	name = "cute_without_the_e"
+	file = "cute_without_the_e.ogg"
+}
+music = {
+	name = "skyway_avenue"
+	file = "skyway_avenue.ogg"
 }

@@ -1,0 +1,157 @@
+music_station = "contemporary_punk_106.5"
+music = {
+	song = "when_your_heart_stops_beating"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gives_you_hell"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "move_along"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sk8er_boi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "all_the_small_things"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "feeling_this"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "first_date"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "1985"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "99_red_balloons"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "american_idiot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "basket_case"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "my_own_worst_enemy"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "jamie_all_over"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "want_you_bad"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "why_dont_you_get_a_job"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "roam"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "los_angeles"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "stuck_in_america"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "fat_lip"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "in_too_deep"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "march_of_the_dogs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "summer"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "underclass_hero"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "teenage_dirtbag"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lights_and_sounds"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "ocean_avenue"
+	chance = {
+		factor = 1
+	}
+}
