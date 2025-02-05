@@ -1,0 +1,73 @@
+music_station = "radio_sovereign"
+music = {
+	song = "like_on_war"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hello_from_the_sky"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hello_mother_im_writing_you_a_letter_again"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "blood_type"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "do_it_for"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dont_play_the_fool_america"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "kombat"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "soldier"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hold_on_brother"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "ah_america"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "time_go_home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "to_serve_russia"
+	chance = {
+		factor = 1
+	}
+}

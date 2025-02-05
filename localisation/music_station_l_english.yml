@@ -3,6 +3,7 @@
  petersburg_99_TITLE:0 "Petersburg 99"
  emotion_98.2_TITLE:0 "Emotion 98.2"
  contemporary_punk_106.5_TITLE:0 "Contemporary Punk 106.5"
+ radio_sovereign_TITLE:0 "Radio Sovereign"
  mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
@@ -138,10 +139,8 @@
  kukushka:0 "KINO - Kukushka \n\n\n\n\n\n£GFX_album_cover_KINO_Black_Album_Texticon\n\n\n\n\n\n\n"
  unhappy_song:0 "KINO - Unhappy Song \n\n\n\n\n\n£GFX_album_cover_KINO_Star_Named_Sun_Texticon\n\n\n\n\n\n\n"
  star_named_sun:0 "KINO - Star Named Sun \n\n\n\n\n\n£GFX_album_cover_KINO_Star_Named_Sun_Texticon\n\n\n\n\n\n\n"
- like_on_war:0 "Agata Kristi - Like in War \n\n\n\n\n\n£GFX_album_cover_Agata_Kristi_The_Shameful_Star_Texticon\n\n\n\n\n\n\n"
  taiga:0 "Agata Kristi - Fabulous Taiga \n\n\n\n\n\n£GFX_album_cover_Agata_Kristi_Opium_Texticon\n\n\n\n\n\n\n"
  san_francisco:0 "Car-Man - San Francisco \n\n\n\n\n\n£GFX_album_cover_Car_Man_Carmania_Texticon\n\n\n\n\n\n\n"
- time_go_home:0 "Sektor Gaza - Time to go Home \n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon\n\n\n\n\n\n\n"
  vesna:0 "Delphin - Spring \n\n\n\n\n\n£GFX_album_cover_Delphin_Vesna_Texticon\n\n\n\n\n\n\n"
  vladivostok_2000:0 "Mumiy Troll - Vladivostok 2000 \n\n\n\n\n\n£GFX_album_cover_Mumiy_Troll_Marine_Texticon\n\n\n\n\n\n\n"
  long_happy_life:0 "Grazhdanskaya Oborona - Long Happy Life \n\n\n\n\n\n£GFX_album_cover_GROB_LaHL_Texticon\n\n\n\n\n\n\n"
@@ -184,7 +183,6 @@
  mayak:0 "Splean - Mayak \n\n\n\n\n\n£GFX_album_cover_Splean_Split_Personality_Texticon\n\n\n\n\n\n\n"
  ekvator:0 "Magnitnaya Anomaliya - Equator \n\n\n\n\n\n£GFX_album_cover_Magnitnaya_Anomaliya_Clouds_With_Lipstick_Texticon\n\n\n\n\n\n\n"
  nezovimenya:0 "Valeriy Petryaev - Don't Call Me \n\n\n\n\n\n£GFX_album_cover_Valeriy_Petryaev_Afgan_Texticon\n\n\n\n\n\n\n"
- to_serve_russia:0 "To Serve Russia \n\n\n\n\n\n£GFX_album_cover_Red_Army_Choir_We_Are_The_Army_Of_The_People_Texticon\n\n\n\n\n\n\n"
  what_is_autumn:0 "DDT - What is Autumn \n\n\n\n\n\n£GFX_album_cover_DDT_Whistled_Texticon\n\n\n\n\n\n\n"
  grass_near_the_house:0 "Zemlyane - Grass Near The House \n\n\n\n\n\n£GFX_album_cover_Zemlyane_GNTH_Texticon\n\n\n\n\n\n\n"
  
@@ -272,6 +270,20 @@
  teenage_dirtbag:0 "Wheatus - Teenage Dirtbag \n\n\n\n\n\n£GFX_album_cover_Wheatus_Wheatus_Texticon\n\n\n\n\n\n\n"
  lights_and_sounds:0 "Yellowcard - Lights And Sounds \n\n\n\n\n\n£GFX_album_cover_Yellowcard_Lights_and_Sounds_Texticon\n\n\n\n\n\n\n"
  ocean_avenue:0 "Yellowcard - Ocean Avenue \n\n\n\n\n\n£GFX_album_cover_Yellowcard_Ocean_Avenue_Texticon\n\n\n\n\n\n\n"
+ 
+ #Radio Sovereign
+ like_on_war:0 "Agata Kristi - Like in War \n\n\n\n\n\n£GFX_album_cover_Agata_Kristi_The_Shameful_Star_Texticon\n\n\n\n\n\n\n"
+ hello_from_the_sky:0 "Alexander Buinov - Hello from the Sky! \n\n\n\n\n\n£GFX_album_cover_Alexander_Buinov_VDV_Texticon\n\n\n\n\n\n\n"
+ hello_mother_im_writing_you_a_letter_again:0 "Andrei Stychkin - Hello mother, I'm writing you a letter again \n\n\n\n\n\n£GFX_album_cover_Generic_RUS_Texticon\n\n\n\n\n\n\n"
+ blood_type:0 "KINO - Blood Type \n\n\n\n\n\n£GFX_album_cover_KINO_Blood_Type_Texticon\n\n\n\n\n\n\n"
+ do_it_for:0 "Lyube - Do It For \n\n\n\n\n\n£GFX_album_cover_Lyube_Davai_Za_Texticon\n\n\n\n\n\n\n"
+ dont_play_the_fool_america:0 "Lyube - Don't Play the Fool, America! \n\n\n\n\n\n£GFX_album_cover_Lyube_Who_Said_That_We_Lived_Badly_Texticon\n\n\n\n\n\n\n"
+ kombat:0 "Lyube - Kombat \n\n\n\n\n\n£GFX_album_cover_Lyube_Kombat_Texticon\n\n\n\n\n\n\n"
+ soldier:0 "Lyube - Soldier \n\n\n\n\n\n£GFX_album_cover_Lyube_Polustanochki_Texticon\n\n\n\n\n\n\n"
+ hold_on_brother:0 "Nikolai Emelin - Hold on, brother \n\n\n\n\n\n£GFX_album_cover_Generic_RUS_Texticon\n\n\n\n\n\n\n"
+ ah_america:0 "Piotr Matrionitchev - Ah, America \n\n\n\n\n\n£GFX_album_cover_Generic_Z_Texticon\n\n\n\n\n\n\n"
+ time_go_home:0 "Sektor Gaza - Time to go Home \n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon\n\n\n\n\n\n\n"
+ to_serve_russia:0 "To Serve Russia \n\n\n\n\n\n£GFX_album_cover_Red_Army_Choir_We_Are_The_Army_Of_The_People_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
  Portofino_1:0 "Raymond Scott - Portofino 1 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"

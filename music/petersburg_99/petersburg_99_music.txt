@@ -24,12 +24,6 @@ music = {
 	}
 }
 music = {
-	song = "like_on_war"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "taiga"
 	chance = {
 		factor = 1
@@ -73,12 +67,6 @@ music = {
 }
 music = {
 	song = "rasputin"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "time_go_home"
 	chance = {
 		factor = 1
 	}
@@ -289,12 +277,6 @@ music = {
 }
 music = {
 	song = "nezovimenya"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "to_serve_russia"
 	chance = {
 		factor = 1
 	}

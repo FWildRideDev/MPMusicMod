@@ -1,0 +1,48 @@
+music = {
+	name = "like_on_war"
+	file = "like_on_war.ogg"
+}
+music = {
+	name = "hello_from_the_sky"
+	file = "hello_from_the_sky.ogg"
+}
+music = {
+	name = "hello_mother_im_writing_you_a_letter_again"
+	file = "hello_mother_im_writing_you_a_letter_again.ogg"
+}
+music = {
+	name = "blood_type"
+	file = "blood_type.ogg"
+}
+music = {
+	name = "do_it_for"
+	file = "do_it_for.ogg"
+}
+music = {
+	name = "dont_play_the_fool_america"
+	file = "dont_play_the_fool_america.ogg"
+}
+music = {
+	name = "kombat"
+	file = "kombat.ogg"
+}
+music = {
+	name = "soldier"
+	file = "soldier.ogg"
+}
+music = {
+	name = "hold_on_brother"
+	file = "hold_on_brother.ogg"
+}
+music = {
+	name = "ah_america"
+	file = "ah_america.ogg"
+}
+music = {
+	name = "time_go_home"
+	file = "time_go_home.ogg"
+}
+music = {
+	name = "to_serve_russia"
+	file = "to_serve_russia.ogg"
+}

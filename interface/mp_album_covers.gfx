@@ -954,5 +954,40 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Zemlyane_GNTH.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_KINO_Blood_Type_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_KINO_Blood_Type.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lyube_Polustanochki_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Polustanochki.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Alexander_Buinov_VDV_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Alexander_Buinov_VDV.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Generic_RUS_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_RUS.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Generic_Z_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_Z.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lyube_Kombat_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Kombat.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lyube_Who_Said_That_We_Lived_Badly_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Who_Said_That_We_Lived_Badly.png"	
+		legacy_lazy_load = no
+	}
 }
 

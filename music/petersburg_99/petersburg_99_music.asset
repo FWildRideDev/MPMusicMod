@@ -11,10 +11,6 @@ music = {
 	file = "bird.ogg"
 }
 music = {
-	name = "like_on_war"
-	file = "like_on_war.ogg"
-}
-music = {
 	name = "taiga"
 	file = "taiga.ogg"
 }
@@ -45,10 +41,6 @@ music = {
 music = {
 	name = "rasputin"
 	file = "rasputin.ogg"
-}
-music = {
-	name = "time_go_home"
-	file = "time_go_home.ogg"
 }
 music = {
 	name = "forever"
@@ -173,10 +165,6 @@ music = {
 music = {
 	name = "nezovimenya"
 	file = "nezovimenya.ogg"
-}
-music = {
-	name = "to_serve_russia"
-	file = "to_serve_russia.ogg"
 }
 music = {
 	name = "unhappy_song"
