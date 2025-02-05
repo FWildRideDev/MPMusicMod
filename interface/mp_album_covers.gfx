@@ -949,5 +949,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_System_Of_A_Down_Steal_This_Album.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Zemlyane_GNTH_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Zemlyane_GNTH.png"	
+		legacy_lazy_load = no
+	}
 }
 

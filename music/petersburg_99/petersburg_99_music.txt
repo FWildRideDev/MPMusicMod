@@ -305,3 +305,9 @@ music = {
 		factor = 1
 	}
 }
+music = {
+	song = "grass_near_the_house"
+	chance = {
+		factor = 1
+	}
+}

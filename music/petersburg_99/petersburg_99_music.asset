@@ -202,3 +202,7 @@ music = {
 	name = "what_is_autumn"
 	file = "what_is_autumn.ogg"
 }
+music = {
+	name = "grass_near_the_house"
+	file = "grass_near_the_house.ogg"
+}
