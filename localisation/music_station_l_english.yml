@@ -6,6 +6,7 @@
  radio_sovereign_TITLE:0 "Radio Sovereign"
  baghdad_drumbeat_radio_TITLE:0 "Baghdad Drumbeat Radio"
  iri_broadcasting_TITLE:0 "IRI Broadcasting"
+ ddr_partisanenradio_TITLE:0 "DDR Partisanenradio"
  mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
@@ -300,6 +301,15 @@
  karbala_song:0 "Karbala Song \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
  o_martyr:0 "O Martyr \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
  song_about_the_enemies_of_iran:0 "Song about the enemies of Iran \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
+ 
+ #DDR Partisanenradio
+ ami_go_home:0 "Ami, Go Home \n\n\n\n\n\n£GFX_album_cover_Generic_DDR_Texticon\n\n\n\n\n\n\n"
+ schritte:0 "Inka Bause - Schritte \n\n\n\n\n\n£GFX_album_cover_Inka_Bause_Schritte_Texticon\n\n\n\n\n\n\n"
+ kundschafterlied:0 "Kundschafterlied \n\n\n\n\n\n£GFX_album_cover_Generic_DDR_Texticon\n\n\n\n\n\n\n"
+ da_sind_wir_aber_immer_noch:0 "Oktoberklub - Da Sind Wir Aber Immer Noch \n\n\n\n\n\n£GFX_album_cover_Oktoberklub_Das_Beste_Texticon\n\n\n\n\n\n\n"
+ was_wollen_wir_trinken:0 "Oktoberklub - Was wollen wir trinken \n\n\n\n\n\n£GFX_album_cover_Oktoberklub_Das_Beste_Texticon\n\n\n\n\n\n\n"
+ soldaten_sind_nicht_alle_gleich:0 "Soldaten Sind Nicht Alle Gleich \n\n\n\n\n\n£GFX_album_cover_Generic_DDR_Texticon\n\n\n\n\n\n\n"
+ wenns_nach_dir_ging:0 "Wenn's nach dir ging \n\n\n\n\n\n£GFX_album_cover_Generic_DDR_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
  Portofino_1:0 "Raymond Scott - Portofino 1 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"

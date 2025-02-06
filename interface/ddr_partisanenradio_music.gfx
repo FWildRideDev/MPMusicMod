@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ddr_partisanenradio_station_cover"
+		textureFile = "gfx/ddr_partisanenradio_station_cover.png"
+		noOfFrames = 2
+	}
+}

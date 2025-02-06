@@ -1,0 +1,28 @@
+music = {
+	name = "ami_go_home"
+	file = "ami_go_home.ogg"
+}
+music = {
+	name = "schritte"
+	file = "schritte.ogg"
+}
+music = {
+	name = "kundschafterlied"
+	file = "kundschafterlied.ogg"
+}
+music = {
+	name = "da_sind_wir_aber_immer_noch"
+	file = "da_sind_wir_aber_immer_noch.ogg"
+}
+music = {
+	name = "was_wollen_wir_trinken"
+	file = "was_wollen_wir_trinken.ogg"
+}
+music = {
+	name = "soldaten_sind_nicht_alle_gleich"
+	file = "soldaten_sind_nicht_alle_gleich.ogg"
+}
+music = {
+	name = "wenns_nach_dir_ging"
+	file = "wenns_nach_dir_ging.ogg"
+}

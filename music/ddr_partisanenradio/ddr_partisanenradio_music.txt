@@ -1,0 +1,43 @@
+music_station = "ddr_partisanenradio"
+music = {
+	song = "ami_go_home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "schritte"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "kundschafterlied"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "da_sind_wir_aber_immer_noch"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "was_wollen_wir_trinken"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "soldaten_sind_nicht_alle_gleich"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "wenns_nach_dir_ging"
+	chance = {
+		factor = 1
+	}
+}

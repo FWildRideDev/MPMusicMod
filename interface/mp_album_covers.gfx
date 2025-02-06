@@ -999,5 +999,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_PER.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Generic_DDR_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_DDR.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Inka_Bause_Schritte_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Inka_Bause_Schritte.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Oktoberklub_Das_Beste_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oktoberklub_Das_Beste.png"	
+		legacy_lazy_load = no
+	}
 }
 
