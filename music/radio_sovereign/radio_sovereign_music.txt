@@ -24,7 +24,7 @@ music = {
 	}
 }
 music = {
-	song = "do_it_for"
+	song = "lyube_davay"
 	chance = {
 		factor = 1
 	}

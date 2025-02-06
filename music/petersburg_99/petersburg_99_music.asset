@@ -67,10 +67,6 @@ music = {
 	file = "horse.ogg"
 }
 music = {
-	name = "lyube_davay"
-	file = "lyube_davay.ogg"
-}
-music = {
 	name = "vesna"
 	file = "vesna.ogg"
 }

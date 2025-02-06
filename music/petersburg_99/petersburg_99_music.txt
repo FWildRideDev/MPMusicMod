@@ -120,12 +120,6 @@ music = {
 	}
 }
 music = {
-	song = "lyube_davay"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "vesna"
 	chance = {
 		factor = 1

@@ -1014,5 +1014,175 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Oktoberklub_Das_Beste.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Avdaga_Vrabac_Selam_Alejkum_Braco_Muslimani_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Avdaga_Vrabac_Selam_Alejkum_Braco_Muslimani.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Bekrija_Bosno_moja_jabuko_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bekrija_Bosno_moja_jabuko.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Bora_Corba_Wolves_from_the_Drina_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Bora_Corba_Wolves_from_the_Drina.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Brano_Trifkovic_Srbin_Je_Ponos_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Brano_Trifkovic_Srbin_Je_Ponos.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Corridor_Zeneva_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Corridor_Zeneva.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Dekan_and_Dzhimi_511th_Mountain_Brigade_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Dekan_and_Dzhimi_511th_Mountain_Brigade.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Dino_Merlin_Moja_Bogda_Sna_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Dino_Merlin_Moja_Bogda_Sna.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Enko_Midzic_Korpuse_Peti_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Enko_Midzic_Korpuse_Peti.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Esad_Kovacevic_Kazi_Moja_Jugoslavijo_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Esad_Kovacevic_Kazi_Moja_Jugoslavijo.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_First_Line_Srpska_Garda_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_First_Line_Srpska_Garda.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Gordana_Lazarevic_Zaljubljena_Zena_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Gordana_Lazarevic_Zaljubljena_Zena.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Ivan_Kranjcina_Suza_Za_Hrvatski_Dom_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Ivan_Kranjcina_Suza_Za_Hrvatski_Dom.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Jadranko_Panta_Svi_Smo_Mi_Ustase_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Jadranko_Panta_Svi_Smo_Mi_Ustase.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Kerber_War_Games_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Kerber_War_Games.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Lepi_Mica_Republika_Srpska_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lepi_Mica_Republika_Srpska.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mico_Trifkovic_Panteri_Su_Ponos_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mico_Trifkovic_Panteri_Su_Ponos.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mile_Delija_Vratite_Se_Krajisnici_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mile_Delija_Vratite_Se_Krajisnici.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Milomir_Martic_Prekinute_Veze_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Milomir_Martic_Prekinute_Veze.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Mindusari_Knin_Armija_Srpska_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Mindusari_Knin_Armija_Srpska.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Miro_Semberac_Puce_puska_na_sred_Semberije_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Miro_Semberac_Puce_puska_na_sred_Semberije.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nazif_Gljiva_Ljiljanima_Do_Pobjede_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nazif_Gljiva_Ljiljanima_Do_Pobjede.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nazif_Gljiva_Pobjeda_Ce_Biti_Nasa_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nazif_Gljiva_Pobjeda_Ce_Biti_Nasa.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Nedjo_Sa_Manjace_Oj_Manjaco_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Nedjo_Sa_Manjace_Oj_Manjaco.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Perica_Ivanovic_Perica_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Perica_Ivanovic_Perica.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Roki_Vulovic_Koktel_Hitova_1_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Roki_Vulovic_Koktel_Hitova_1.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Roki_Vulovic_Koktel_Hitova_2_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Roki_Vulovic_Koktel_Hitova_2.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Safet_Cimirotic_Bosanska_Raja_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Safet_Cimirotic_Bosanska_Raja.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Sinisa_Vuco_Vukovi_Sa_Svilaje_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Sinisa_Vuco_Vukovi_Sa_Svilaje.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Suzi_Andjelkovic_Macedonian_Tigers_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Suzi_Andjelkovic_Macedonian_Tigers.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Svetomir_Ilic_Siki_Probudi_Se_Srbine_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Svetomir_Ilic_Siki_Probudi_Se_Srbine.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Tigers_Of_Darkness_Ostat_Ce_Nasa_Posavina_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Tigers_Of_Darkness_Ostat_Ce_Nasa_Posavina.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Unknown_Kaznjenicka_Bojna_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Unknown_Kaznjenicka_Bojna.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Various_Artists_Patriotska_Liga_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Various_Artists_Patriotska_Liga.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Vuk_Sa_Ozrena_Na_Ozrenu_Brat_Do_Brata_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Vuk_Sa_Ozrena_Na_Ozrenu_Brat_Do_Brata.png"	
+		legacy_lazy_load = no
+	}
 }
 

@@ -1,0 +1,283 @@
+music_station = "radio_drina"
+music = {
+	song = "here_it_goes_all_the_way_to_belgrade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bosnian_artillery"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "wolves_from_the_drina"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "brother_serbs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dont_be_afraid"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "godfathers"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "oh_alija_alija"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "511th_mountain_brigade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "soldier_of_fortune"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "cavoglav_of_posavina"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "we_are_a_heavenly_force"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "no_more_my_friend"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dragon_of_bosnia_brigade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "guard_of_srpska"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "choir_el_ihlas"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "montenegrins"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hey_my_bosnia"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "herceg_bosnia_croatias_crown_home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "we_are_all_ustashas"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "war_games"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "mount_romanija"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "ratkos_army"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "republika_srpska"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "panthers_are_pride"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "who_is_threatening_us_from_zagreb"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "army_of_srpska"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "a_rifle_fires_in_the_middle_of_semberija"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "we_are_muslims"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "505th_brigade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hamze_and_gazije"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_knightly_brigade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "army_of_bih"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "saraj"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "victory_will_be_ours"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "serb_brothers_war_must_be_fought"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "tough_fights"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "black_bomber"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "fifth_boat_brigade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "panthers"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "army_of_bosnia"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "atife_atife_lets_sing_in_unison"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "wolves_from_svilaja"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "macedonian_tigers"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hymn_of_grebnice"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "arkanove_delije"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "convicts_battalion"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "song_about_pickle"
+	chance = {
+		factor = 1
+	}
+}
