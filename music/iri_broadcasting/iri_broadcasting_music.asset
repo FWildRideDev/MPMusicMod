@@ -1,0 +1,20 @@
+music = {
+	name = "god_is_the_greatest_khomeini_is_the_leader"
+	file = "god_is_the_greatest_khomeini_is_the_leader.ogg"
+}
+music = {
+	name = "iran_iran"
+	file = "iran_iran.ogg"
+}
+music = {
+	name = "karbala_song"
+	file = "karbala_song.ogg"
+}
+music = {
+	name = "o_martyr"
+	file = "o_martyr.ogg"
+}
+music = {
+	name = "song_about_the_enemies_of_iran"
+	file = "song_about_the_enemies_of_iran.ogg"
+}

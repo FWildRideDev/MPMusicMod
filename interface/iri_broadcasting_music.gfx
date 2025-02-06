@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_iri_broadcasting_station_cover"
+		textureFile = "gfx/iri_broadcasting_radio_station_cover.png"
+		noOfFrames = 2
+	}
+}

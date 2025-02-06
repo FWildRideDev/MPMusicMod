@@ -994,5 +994,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_IRQ.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Generic_PER_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_PER.png"	
+		legacy_lazy_load = no
+	}
 }
 

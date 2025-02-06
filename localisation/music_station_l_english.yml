@@ -5,6 +5,7 @@
  contemporary_punk_106.5_TITLE:0 "Contemporary Punk 106.5"
  radio_sovereign_TITLE:0 "Radio Sovereign"
  baghdad_drumbeat_radio_TITLE:0 "Baghdad Drumbeat Radio"
+ iri_broadcasting_TITLE:0 "IRI Broadcasting"
  mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
@@ -286,12 +287,19 @@
  time_go_home:0 "Sektor Gaza - Time to go Home \n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon\n\n\n\n\n\n\n"
  to_serve_russia:0 "To Serve Russia \n\n\n\n\n\n£GFX_album_cover_Red_Army_Choir_We_Are_The_Army_Of_The_People_Texticon\n\n\n\n\n\n\n"
  
- #Radio Sovereign
+ #Baghdad Drumbeat Radio
  glory_to_the_banner_of_islam:0 "Glory to the banner of Islam \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
  may_it_fall:0 "May It Fall! \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
  saddam_allah:0 "Saddam, Allah. \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
  swords_of_iraq:0 "Swords of Iraq \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
  welcome_o_battles_of_fate:0 "Welcome, O Battles of Fate \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
+ 
+ #IRI Broadcasting
+ god_is_the_greatest_khomeini_is_the_leader:0 "God is the greatest, Khomeini is the Leader \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
+ iran_iran:0 "Iran Iran \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
+ karbala_song:0 "Karbala Song \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
+ o_martyr:0 "O Martyr \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
+ song_about_the_enemies_of_iran:0 "Song about the enemies of Iran \n\n\n\n\n\n£GFX_album_cover_Generic_PER_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
  Portofino_1:0 "Raymond Scott - Portofino 1 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"

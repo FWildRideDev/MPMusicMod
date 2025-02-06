@@ -1,0 +1,31 @@
+music_station = "iri_broadcasting"
+music = {
+	song = "god_is_the_greatest_khomeini_is_the_leader"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "iran_iran"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "karbala_song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "o_martyr"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "song_about_the_enemies_of_iran"
+	chance = {
+		factor = 1
+	}
+}
