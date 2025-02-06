@@ -75,6 +75,10 @@ music = {
 	file = "fat_lip.ogg"
 }
 music = {
+	name = "the_hell_song"
+	file = "the_hell_song.ogg"
+}
+music = {
 	name = "in_too_deep"
 	file = "in_too_deep.ogg"
 }

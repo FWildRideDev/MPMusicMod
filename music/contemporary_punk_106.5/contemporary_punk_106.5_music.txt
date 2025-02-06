@@ -114,6 +114,12 @@ music = {
 	}
 }
 music = {
+	song = "the_hell_song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "in_too_deep"
 	chance = {
 		factor = 1
