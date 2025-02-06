@@ -989,5 +989,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Lyube_Who_Said_That_We_Lived_Badly.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_Generic_IRQ_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Generic_IRQ.png"	
+		legacy_lazy_load = no
+	}
 }
 

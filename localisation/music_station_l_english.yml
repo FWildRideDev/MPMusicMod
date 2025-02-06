@@ -4,6 +4,7 @@
  emotion_98.2_TITLE:0 "Emotion 98.2"
  contemporary_punk_106.5_TITLE:0 "Contemporary Punk 106.5"
  radio_sovereign_TITLE:0 "Radio Sovereign"
+ baghdad_drumbeat_radio_TITLE:0 "Baghdad Drumbeat Radio"
  mp_soundtrack_TITLE:0 "Melting Pot Original Soundtrack"
 
  #Melting Pot Radio
@@ -284,6 +285,13 @@
  ah_america:0 "Piotr Matrionitchev - Ah, America \n\n\n\n\n\n£GFX_album_cover_Generic_Z_Texticon\n\n\n\n\n\n\n"
  time_go_home:0 "Sektor Gaza - Time to go Home \n\n\n\n\n\n£GFX_album_cover_Sektor_Gaza_Narcological_University_of_Millions_Texticon\n\n\n\n\n\n\n"
  to_serve_russia:0 "To Serve Russia \n\n\n\n\n\n£GFX_album_cover_Red_Army_Choir_We_Are_The_Army_Of_The_People_Texticon\n\n\n\n\n\n\n"
+ 
+ #Radio Sovereign
+ glory_to_the_banner_of_islam:0 "Glory to the banner of Islam \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
+ may_it_fall:0 "May It Fall! \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
+ saddam_allah:0 "Saddam, Allah. \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
+ swords_of_iraq:0 "Swords of Iraq \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
+ welcome_o_battles_of_fate:0 "Welcome, O Battles of Fate \n\n\n\n\n\n£GFX_album_cover_Generic_IRQ_Texticon\n\n\n\n\n\n\n"
  
  #MP Soundtack
  Portofino_1:0 "Raymond Scott - Portofino 1 \n\n\n\n\n\n£GFX_album_cover_Raymond_Scott_Manhattan_Research_Inc_Texticon\n\n\n\n\n\n\n"

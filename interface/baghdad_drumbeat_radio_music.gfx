@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_baghdad_drumbeat_radio_station_cover"
+		textureFile = "gfx/baghdad_drumbeat_radio_radio_station_cover.png"
+		noOfFrames = 2
+	}
+}

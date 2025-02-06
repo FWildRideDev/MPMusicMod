@@ -1,0 +1,20 @@
+music = {
+	name = "glory_to_the_banner_of_islam"
+	file = "glory_to_the_banner_of_islam.ogg"
+}
+music = {
+	name = "may_it_fall"
+	file = "may_it_fall.ogg"
+}
+music = {
+	name = "saddam_allah"
+	file = "saddam_allah.ogg"
+}
+music = {
+	name = "swords_of_iraq"
+	file = "swords_of_iraq.ogg"
+}
+music = {
+	name = "welcome_o_battles_of_fate"
+	file = "welcome_o_battles_of_fate.ogg"
+}

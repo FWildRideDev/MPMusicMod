@@ -1,0 +1,31 @@
+music_station = "baghdad_drumbeat_radio"
+music = {
+	song = "glory_to_the_banner_of_islam"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "may_it_fall"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "saddam_allah"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "swords_of_iraq"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "welcome_o_battles_of_fate"
+	chance = {
+		factor = 1
+	}
+}
