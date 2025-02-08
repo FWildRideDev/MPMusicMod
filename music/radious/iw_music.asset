@@ -383,10 +383,6 @@ music = {
 	file = "photograph.ogg"
 }
 music = {
-	name = "pieces"
-	file = "pieces.ogg"
-}
-music = {
 	name = "pumped_up_kicks"
 	file = "pumped_up_kicks.ogg"
 }
@@ -421,10 +417,6 @@ music = {
 music = {
 	name = "stars_and_stripes"
 	file = "stars_and_stripes.ogg"
-}
-music = {
-	name = "still_waiting"
-	file = "still_waiting.ogg"
 }
 music = {
 	name = "strange_times"

@@ -132,6 +132,12 @@ music = {
 	}
 }
 music = {
+	song = "still_waiting"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "summer"
 	chance = {
 		factor = 1

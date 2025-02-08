@@ -106,3 +106,7 @@ music = {
 	name = "ocean_avenue"
 	file = "ocean_avenue.ogg"
 }
+music = {
+	name = "still_waiting"
+	file = "still_waiting.ogg"
+}
