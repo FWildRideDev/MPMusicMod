@@ -1,24 +1,6 @@
 music_station = "petersburg_99"
 music = {
-	song = "kukushka"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "unhappy_song"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "star_named_sun"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "bird"
+	song = "rasa"
 	chance = {
 		factor = 1
 	}
@@ -30,133 +12,13 @@ music = {
 	}
 }
 music = {
-	song = "gibraltar"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "31vesna"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "dorogi"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "nautilus"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "san_francisco"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "moskau"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "rasputin"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "forever"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "piknik"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "piknik_piknik"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "motherland"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "istay"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "khaki_ball"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "esaul"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "horse"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "vesna"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "pinkglasses"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "borzov"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "serga"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "vladivostok_2000"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "krematoriy_2001"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "time_machine"
+	song = "bird"
 	chance = {
 		factor = 1
 	}
@@ -174,31 +36,13 @@ music = {
 	}
 }
 music = {
-	song = "splin"
+	song = "rasputin"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "mayak"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "ekvator"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "kukriniksy"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "pilot"
+	song = "san_francisco"
 	chance = {
 		factor = 1
 	}
@@ -216,13 +60,31 @@ music = {
 	}
 }
 music = {
-	song = "last_warrior"
+	song = "istay"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "peace_and_freedom"
+	song = "khaki_ball"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "what_is_autumn"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "vesna"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "moskau"
 	chance = {
 		factor = 1
 	}
@@ -246,19 +108,19 @@ music = {
 	}
 }
 music = {
-	song = "smertinet"
+	song = "kukushka"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "rasa"
+	song = "unhappy_song"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "hellraiser"
+	song = "star_named_sun"
 	chance = {
 		factor = 1
 	}
@@ -270,13 +132,151 @@ music = {
 	}
 }
 music = {
+	song = "krematoriy_2001"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "kukriniksy"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dorogi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "horse"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "ekvator"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "time_machine"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "vladivostok_2000"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "nautilus"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "smertinet"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "borzov"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "31vesna"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "esaul"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "last_warrior"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "peace_and_freedom"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "piknik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "piknik_piknik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "pilot"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "hellraiser"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "pinkglasses"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "serga"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "mayak"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "splin"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "forever"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "nezovimenya"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "what_is_autumn"
+	song = "gibraltar"
 	chance = {
 		factor = 1
 	}
