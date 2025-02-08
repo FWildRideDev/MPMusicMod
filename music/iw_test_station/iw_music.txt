@@ -1,5 +1,11 @@
 music_station = "iw_test_station"
 music = {
+	song = "I_Aint_Mad_At_Cha"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Janies_Got_A_Gun"
 	chance = {
 		factor = 1
@@ -36,7 +42,55 @@ music = {
 	}
 }
 music = {
+	song = "american_jesus"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sabotage"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "strange_times"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "helicopter"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "fantastic_voyage"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gangstas_paradise"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Zombie"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "higher"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "one_mistake"
 	chance = {
 		factor = 1
 	}
@@ -78,7 +132,73 @@ music = {
 	}
 }
 music = {
+	song = "pumped_up_kicks"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_haunting_presence"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "blackest_bile"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "grave_filled_with_books"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "empty_churches"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "im_going_to_do_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "spectral_bride"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "NOIEGTWM"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "a_sleeping_heart"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "buried_above_the_ground"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Forgive_Me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "21st_century_breakdown"
 	chance = {
 		factor = 1
 	}
@@ -103,168 +223,6 @@ music = {
 }
 music = {
 	song = "State_Of_Grace"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Today_Was_A_Good_Day"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "You_Know_How_We_Do_It"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "My_Song"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Got_The_Life"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Pretend_Were_Dead"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Cult_of_Personality"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Lava"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Lay_Lady_Lay"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Filth_Pig"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "The_Fall"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Lifes_A_Bitch"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Rosa_Parks"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Southernplayalisticadillacmuzik"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Do_Re_Mi"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "heart_shaped_box"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "The_Man_Who_Sold_The_World"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "It_Makes_Them_Disappear"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Planet_Caravan"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Amerika"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Buck_Dich"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Black_Hole_Sun"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Fourth_Of_July"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Dead_And_Bloated"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Suggestions"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "Gimme_All_Your_Lovin"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "I_Aint_Mad_At_Cha"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "commercial1"
 	chance = {
 		factor = 1
 	}
@@ -348,187 +306,37 @@ music = {
 	}
 }
 music = {
-	song = "the_haunting_presence"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "blackest_bile"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "grave_filled_with_books"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "empty_churches"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "im_going_to_do_it"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "spectral_bride"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "NOIEGTWM"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "a_sleeping_heart"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "buried_above_the_ground"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "21st_century_breakdown"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "burn_it_down"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "castle_of_glass"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "new_divide"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "i_dont_wanna_be_me"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "gettin_jiggy_wit_it"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "men_in_black"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "miami"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "will_2k"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "old"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "seven_nation_army"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "fantastic_voyage"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "gangstas_paradise"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "american_jesus"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "sabotage"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "strange_times"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "helicopter"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "higher"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "one_mistake"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "pumped_up_kicks"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "sha_la_la_la"
 	chance = {
 		factor = 1
 	}
 }
 music = {
+	song = "Today_Was_A_Good_Day"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "You_Know_How_We_Do_It"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "veteran"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "My_Song"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "are_you_gonna_be_my_girl"
 	chance = {
 		factor = 1
 	}
@@ -594,6 +402,54 @@ music = {
 	}
 }
 music = {
+	song = "Got_The_Life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Pretend_Were_Dead"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "burn_it_down"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "castle_of_glass"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "new_divide"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Cult_of_Personality"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "old"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "angel"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "not_for_want_of_trying"
 	chance = {
 		factor = 1
@@ -606,7 +462,43 @@ music = {
 	}
 }
 music = {
+	song = "Lava"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lay_Lady_Lay"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Filth_Pig"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "The_Fall"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "shook_ones_pt_ii"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "world_of_shit"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Lifes_A_Bitch"
 	chance = {
 		factor = 1
 	}
@@ -625,6 +517,24 @@ music = {
 }
 music = {
 	song = "savin_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Do_Re_Mi"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "heart_shaped_box"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "The_Man_Who_Sold_The_World"
 	chance = {
 		factor = 1
 	}
@@ -654,6 +564,30 @@ music = {
 	}
 }
 music = {
+	song = "Rosa_Parks"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Southernplayalisticadillacmuzik"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "It_Makes_Them_Disappear"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Planet_Caravan"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "where_is_my_mind"
 	chance = {
 		factor = 1
@@ -661,54 +595,6 @@ music = {
 }
 music = {
 	song = "fight_for_your_rights"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "dani_california"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "dear_dictator"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "pieces"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "still_waiting"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "closer_to_the_edge"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "this_is_war"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "are_you_gonna_be_my_girl"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "angel"
 	chance = {
 		factor = 1
 	}
@@ -732,7 +618,85 @@ music = {
 	}
 }
 music = {
+	song = "Amerika"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Buck_Dich"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dani_california"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "prayer_of_the_refugee"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dear_dictator"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "out_with_a_bang"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Black_Hole_Sun"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Fourth_Of_July"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Dead_And_Bloated"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "pieces"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "still_waiting"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "Suggestions"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "closer_to_the_edge"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "this_is_war"
 	chance = {
 		factor = 1
 	}
@@ -744,19 +708,55 @@ music = {
 	}
 }
 music = {
+	song = "i_dont_wanna_be_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "gettin_jiggy_wit_it"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "men_in_black"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "miami"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "will_2k"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "seven_nation_army"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "maps"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "world_of_shit"
+	song = "Gimme_All_Your_Lovin"
 	chance = {
 		factor = 1
 	}
 }
 music = {
-	song = "prayer_of_the_refugee"
+	song = "commercial1"
 	chance = {
 		factor = 1
 	}
