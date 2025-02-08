@@ -1,5 +1,23 @@
 music_station = "emotion_98.2"
 music = {
+	song = "time_for_miracles"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "whataya_want_from_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "another_song_about_the_weekend"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "dirty_little_secret"
 	chance = {
 		factor = 1
@@ -12,7 +30,25 @@ music = {
 	}
 }
 music = {
+	song = "complicated"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "Covet"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "bvb_in_the_end"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "knives_and_pens"
 	chance = {
 		factor = 1
 	}
@@ -30,7 +66,55 @@ music = {
 	}
 }
 music = {
+	song = "the_great_escape"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "bring_me_to_life"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "dance_dance"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "grand_theft_autumn"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "sugar_were_goin_down"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "thnks_fr_th_mmrs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_anthem"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "boulevard_of_broken_dreams"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "wake_me_up_when_september_ends"
 	chance = {
 		factor = 1
 	}
@@ -43,6 +127,12 @@ music = {
 }
 music = {
 	song = "sweetness"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "mr_brightside"
 	chance = {
 		factor = 1
 	}
@@ -96,6 +186,12 @@ music = {
 	}
 }
 music = {
+	song = "everything_is_alright"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "helena"
 	chance = {
 		factor = 1
@@ -127,72 +223,6 @@ music = {
 }
 music = {
 	song = "thats_what_you_get"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "boulevard_of_broken_dreams"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "wake_me_up_when_september_ends"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "time_for_miracles"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "whataya_want_from_me"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "bvb_in_the_end"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "knives_and_pens"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "dance_dance"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "grand_theft_autumn"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "sugar_were_goin_down"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "thnks_fr_th_mmrs"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "mr_brightside"
 	chance = {
 		factor = 1
 	}
@@ -246,60 +276,6 @@ music = {
 	}
 }
 music = {
-	song = "walking_disaster"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "with_me"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "the_kill"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "i_hate_everything_about_you"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "complicated"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "another_song_about_the_weekend"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "the_great_escape"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "the_anthem"
-	chance = {
-		factor = 1
-	}
-}
-music = {
-	song = "everything_is_alright"
-	chance = {
-		factor = 1
-	}
-}
-music = {
 	song = "if_you_cant_hang"
 	chance = {
 		factor = 1
@@ -318,7 +294,31 @@ music = {
 	}
 }
 music = {
+	song = "walking_disaster"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "with_me"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "cute_without_the_e"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "the_kill"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "i_hate_everything_about_you"
 	chance = {
 		factor = 1
 	}
