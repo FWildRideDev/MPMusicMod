@@ -1184,5 +1184,45 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Vuk_Sa_Ozrena_Na_Ozrenu_Brat_Do_Brata.png"	
 		legacy_lazy_load = no
 	}
+	SpriteType = {
+		name = "GFX_album_cover_New_Found_Glory_Sticks_And_Stones_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_New_Found_Glory_Sticks_And_Stones.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Panic_At_The_Disco_A_Fever_You_Cant_Sweat_Out_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Panic_At_The_Disco_A_Fever_You_Cant_Sweat_Out.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Paramore_Brand_New_Eyes_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Paramore_Brand_New_Eyes.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Taking_Back_Sunday_Louder_Now_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Taking_Back_Sunday_Louder_Now.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Blink_182_Dude_Ranch_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Blink_182_Dude_Ranch.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Goldfinger_Hang_Ups_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Goldfinger_Hang_Ups.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Ramones_Ramones_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Ramones_Ramones.png"	
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_album_cover_Simple_Plan_Get_Your_Heart_On_Texticon"
+		texturefile = "gfx/interface/topbar/musicplayer/album_covers/album_cover_Simple_Plan_Get_Your_Heart_On.png"	
+		legacy_lazy_load = no
+	}
 }
 

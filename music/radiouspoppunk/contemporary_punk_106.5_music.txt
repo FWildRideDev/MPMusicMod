@@ -30,6 +30,12 @@ music = {
 	}
 }
 music = {
+	song = "dammit"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "feeling_this"
 	chance = {
 		factor = 1
@@ -42,13 +48,43 @@ music = {
 	}
 }
 music = {
+	song = "the_rock_show"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "whats_my_age_again"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "1985"
 	chance = {
 		factor = 1
 	}
 }
 music = {
+	song = "this_aint_a_scene_its_an_arms_race"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "99_red_balloons"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "superman"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lifestyles_of_the_rich_and_famous"
 	chance = {
 		factor = 1
 	}
@@ -90,6 +126,30 @@ music = {
 	}
 }
 music = {
+	song = "blitzkrieg_bop"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "addicted"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "id_do_anything"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "jet_lag"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "roam"
 	chance = {
 		factor = 1
@@ -126,7 +186,19 @@ music = {
 	}
 }
 music = {
+	song = "the_jester"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "march_of_the_dogs"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "no_reason"
 	chance = {
 		factor = 1
 	}
@@ -163,6 +235,12 @@ music = {
 }
 music = {
 	song = "ocean_avenue"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "way_away"
 	chance = {
 		factor = 1
 	}

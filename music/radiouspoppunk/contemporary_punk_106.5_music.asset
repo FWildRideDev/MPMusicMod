@@ -110,3 +110,55 @@ music = {
 	name = "still_waiting"
 	file = "still_waiting.ogg"
 }
+music = {
+	name = "addicted"
+	file = "addicted.ogg"
+}
+music = {
+	name = "blitzkrieg_bop"
+	file = "blitzkrieg_bop.ogg"
+}
+music = {
+	name = "dammit"
+	file = "dammit.ogg"
+}
+music = {
+	name = "id_do_anything"
+	file = "id_do_anything.ogg"
+}
+music = {
+	name = "jet_lag"
+	file = "jet_lag.ogg"
+}
+music = {
+	name = "lifestyles_of_the_rich_and_famous"
+	file = "lifestyles_of_the_rich_and_famous.ogg"
+}
+music = {
+	name = "no_reason"
+	file = "no_reason.ogg"
+}
+music = {
+	name = "superman"
+	file = "superman.ogg"
+}
+music = {
+	name = "the_jester"
+	file = "the_jester.ogg"
+}
+music = {
+	name = "the_rock_show"
+	file = "the_rock_show.ogg"
+}
+music = {
+	name = "this_aint_a_scene_its_an_arms_race"
+	file = "this_aint_a_scene_its_an_arms_race.ogg"
+}
+music = {
+	name = "way_away"
+	file = "way_away.ogg"
+}
+music = {
+	name = "whats_my_age_again"
+	file = "whats_my_age_again.ogg"
+}

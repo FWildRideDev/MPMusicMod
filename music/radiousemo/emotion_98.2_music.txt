@@ -204,7 +204,31 @@ music = {
 	}
 }
 music = {
+	song = "teenagers"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "welcome_to_the_black_parade"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "my_friends_over_you"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "lying_is_the_most_fun"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "decode"
 	chance = {
 		factor = 1
 	}
@@ -300,6 +324,12 @@ music = {
 	}
 }
 music = {
+	song = "speak_of_the_devil"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "walking_disaster"
 	chance = {
 		factor = 1
@@ -318,6 +348,12 @@ music = {
 	}
 }
 music = {
+	song = "makedamnsure"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "the_kill"
 	chance = {
 		factor = 1
@@ -330,7 +366,25 @@ music = {
 	}
 }
 music = {
+	song = "check_yes_juliet"
+	chance = {
+		factor = 1
+	}
+}
+music = {
 	song = "skyway_avenue"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "breathing"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "only_one"
 	chance = {
 		factor = 1
 	}

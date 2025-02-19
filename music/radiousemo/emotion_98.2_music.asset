@@ -222,3 +222,39 @@ music = {
 	name = "pieces"
 	file = "pieces.ogg"
 }
+music = {
+	name = "breathing"
+	file = "breathing.ogg"
+}
+music = {
+	name = "check_yes_juliet"
+	file = "check_yes_juliet.ogg"
+}
+music = {
+	name = "decode"
+	file = "decode.ogg"
+}
+music = {
+	name = "lying_is_the_most_fun"
+	file = "lying_is_the_most_fun.ogg"
+}
+music = {
+	name = "makedamnsure"
+	file = "makedamnsure.ogg"
+}
+music = {
+	name = "my_friends_over_you"
+	file = "my_friends_over_you.ogg"
+}
+music = {
+	name = "only_one"
+	file = "only_one.ogg"
+}
+music = {
+	name = "speak_of_the_devil"
+	file = "speak_of_the_devil.ogg"
+}
+music = {
+	name = "teenagers"
+	file = "teenagers.ogg"
+}
